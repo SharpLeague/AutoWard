@@ -13,36 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d393db6-b593-4537-a944-6838cd2a0924" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WardPositionReader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_All_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_All_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_All_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_All_30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Blue_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Blue_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Control_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Control_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Control_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Regular_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Regular_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Regular_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Chaos_Regular_30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_All_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_All_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_All_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Blue_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Blue_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Control_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Control_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Control_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Regular_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Regular_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/wards_Order_Regular_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ward_Data.properties" afterDir="false" />
-    </list>
+    <list default="true" id="4d393db6-b593-4537-a944-6838cd2a0924" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB7B8CDA-C1CC-4339-9B00-09ACB01C0D23/b4/727dd57c/Game.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/146CFB87-479E-4DA6-8E04-3E8BABB6F951/e1/b371bd75/Menu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB7B8CDA-C1CC-4339-9B00-09ACB01C0D23/86/ad52e63c/Drawing.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/146CFB87-479E-4DA6-8E04-3E8BABB6F951/5e/50d3a7a9/Render.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -73,6 +46,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="RiderRazorCSFileTemplatesSettingsId" />
   </component>
   <component name="RunManager">
@@ -106,7 +86,7 @@
       <workItem from="1609109078218" duration="1574000" />
       <workItem from="1609113086773" duration="351000" />
       <workItem from="1609113457401" duration="219000" />
-      <workItem from="1609113866188" duration="1399000" />
+      <workItem from="1609113866188" duration="3389000" />
     </task>
     <servers />
   </component>
@@ -151,9 +131,9 @@
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state x="682" y="351" width="636" height="534" key="find.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1609113269185" />
-    <state x="663" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1609115107298">
+    <state x="663" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1609116724867">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="663" y="326" width="672" height="678" key="search.everywhere.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1609115107298" />
+    <state x="663" y="326" width="672" height="678" key="search.everywhere.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1609116724867" />
   </component>
 </project>

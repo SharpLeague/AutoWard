@@ -36,43 +36,28 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="clipper_library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d12e08f2a3211a4a">
-      <HintPath>..\..\Desktop\dlls\clipper_library.dll</HintPath>
-    </Reference>
-    <Reference Include="Keras, Version=3.8.5.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\Desktop\dlls\Keras.dll</HintPath>
-    </Reference>
-    <Reference Include="LeagueSharp">
-      <HintPath>..\..\hardrandom\compileDotNet\LeagueSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="LeagueSharp.Common">
-      <HintPath>..\..\..\..\AppData\Roaming\external\csharplibs\LeagueSharp.Common.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\clipper_library.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Common, Version=1.0.0.55, Culture=neutral, PublicKeyToken=57a5292ddd39b703">
-      <HintPath>..\..\Desktop\dlls\LeagueSharp.Common.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\LeagueSharp.Common.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Data, Version=1.1.0.1, Culture=neutral, PublicKeyToken=7b6e8d26eaf0534f">
-      <HintPath>..\..\Desktop\dlls\LeagueSharp.Data.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\LeagueSharp.Data.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Sandbox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0c92cb9c3763a33b">
-      <HintPath>..\..\Desktop\dlls\LeagueSharp.Sandbox.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\LeagueSharp.Sandbox.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Wrapper, Version=1.0.0.1, Culture=neutral, PublicKeyToken=e0de6adbc8a415fa">
-      <HintPath>..\..\Desktop\dlls\LeagueSharp.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\LeagueSharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
-      <HintPath>..\..\Desktop\dlls\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="SharpDX">
-      <HintPath>..\..\..\..\AppData\Roaming\external\csharplibs\SharpDX.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX, Version=2.6.3.0, Culture=neutral, PublicKeyToken=345b829e6e492981">
-      <HintPath>..\..\Desktop\dlls\SharpDX.dll</HintPath>
-    </Reference>
-    <Reference Include="SharpDX.Direct3D9">
-      <HintPath>..\..\..\..\AppData\Roaming\external\csharplibs\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9, Version=2.6.3.0, Culture=neutral, PublicKeyToken=345b829e6e492981">
-      <HintPath>..\..\Desktop\dlls\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>..\..\..\Downloads\LeagueSharp\Kernel\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -96,6 +81,49 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="data\wards_Chaos_All_15.csv" />
+    <None Include="data\wards_Chaos_All_25.csv" />
+    <None Include="data\wards_Chaos_All_35.csv" />
+    <None Include="data\wards_Chaos_All_40.csv" />
+    <None Include="data\wards_Chaos_All_5.csv" />
+    <None Include="data\wards_Chaos_Blue_15.csv" />
+    <None Include="data\wards_Chaos_Blue_25.csv" />
+    <None Include="data\wards_Chaos_Blue_30.csv" />
+    <None Include="data\wards_Chaos_Blue_35.csv" />
+    <None Include="data\wards_Chaos_Blue_40.csv" />
+    <None Include="data\wards_Chaos_Control_15.csv" />
+    <None Include="data\wards_Chaos_Control_25.csv" />
+    <None Include="data\wards_Chaos_Control_30.csv" />
+    <None Include="data\wards_Chaos_Control_35.csv" />
+    <None Include="data\wards_Chaos_Control_40.csv" />
+    <None Include="data\wards_Chaos_Control_5.csv" />
+    <None Include="data\wards_Chaos_Regular_15.csv" />
+    <None Include="data\wards_Chaos_Regular_25.csv" />
+    <None Include="data\wards_Chaos_Regular_35.csv" />
+    <None Include="data\wards_Chaos_Regular_40.csv" />
+    <None Include="data\wards_Chaos_Regular_5.csv" />
+    <None Include="data\wards_Order_All_15.csv" />
+    <None Include="data\wards_Order_All_25.csv" />
+    <None Include="data\wards_Order_All_30.csv" />
+    <None Include="data\wards_Order_All_35.csv" />
+    <None Include="data\wards_Order_All_40.csv" />
+    <None Include="data\wards_Order_All_5.csv" />
+    <None Include="data\wards_Order_Blue_15.csv" />
+    <None Include="data\wards_Order_Blue_25.csv" />
+    <None Include="data\wards_Order_Blue_30.csv" />
+    <None Include="data\wards_Order_Blue_35.csv" />
+    <None Include="data\wards_Order_Blue_40.csv" />
+    <None Include="data\wards_Order_Control_15.csv" />
+    <None Include="data\wards_Order_Control_25.csv" />
+    <None Include="data\wards_Order_Control_30.csv" />
+    <None Include="data\wards_Order_Control_35.csv" />
+    <None Include="data\wards_Order_Control_5.csv" />
+    <None Include="data\wards_Order_Regular_15.csv" />
+    <None Include="data\wards_Order_Regular_25.csv" />
+    <None Include="data\wards_Order_Regular_30.csv" />
+    <None Include="data\wards_Order_Regular_35.csv" />
+    <None Include="data\wards_Order_Regular_40.csv" />
+    <None Include="data\wards_Order_Regular_5.csv" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="data\wards.csv" />

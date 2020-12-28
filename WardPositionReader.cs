@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using LeagueSharp;
 using SharpDX;
@@ -14,7 +15,7 @@ namespace AutoWard
 
     public static class WardPositionReader
     {
-        public static List<WardPosition> Read(GameObjectTeam team, int minute = 0)
+        public static List<WardPosition> Read(GameObjectTeam team, int minute)
         {
             var teamString = "Chaos";
             if (team == GameObjectTeam.Order)
@@ -24,13 +25,19 @@ namespace AutoWard
 
             var output = new List<WardPosition>();
             var content = Resource1.ResourceManager.GetString($"wards_{teamString}_All_{minute}", Resource1.Culture);
-            if (content == null) return output;
+            if (content == null)
+            {
+                Console.WriteLine($"Not found file wards_{teamString}_All_{minute}.csv");
+                return output;
+            }
 
             output.AddRange(content.Split('\n')
                 .Skip(1)
                 .Select(line => line.Split(','))
+                .Where(line => line.Length == 6)
                 .Select(columns =>
-                    new WardPosition
+                {
+                    return new WardPosition
                     {
                         position = new Vector2
                         {
@@ -39,7 +46,8 @@ namespace AutoWard
                         },
                         popularity = float.Parse(columns[4]),
                         score = float.Parse(columns[5])
-                    }));
+                    };
+                }));
 
             return output;
         }
