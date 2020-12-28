@@ -9,14 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c18d636a-9ea0-4a20-8dd7-91ed8d006a38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/AutoWard/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/AutoWard/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutoWard.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AutoWard.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Resource1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resource1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Resource1.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WardPositionReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WardPositionReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/wards.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/88309C8F-A52C-428F-81B9-2C89E36704B2/7b/ba36e7a2/Drawing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/864270C8-21A8-43C2-B198-9D535AD82E86/7c/9e95f89b/Geometry.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,7 +82,7 @@
       <updated>1609107844196</updated>
       <workItem from="1609107868434" duration="831000" />
       <workItem from="1609139757604" duration="6185000" />
-      <workItem from="1609147076133" duration="1791000" />
+      <workItem from="1609147076133" duration="8558000" />
     </task>
     <servers />
   </component>
@@ -110,9 +107,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="785" y="402" width="672" height="678" key="search.everywhere.popup" timestamp="1609148039948">
+    <state x="785" y="402" width="672" height="678" key="search.everywhere.popup" timestamp="1609151665937">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="785" y="402" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1609148039948" />
+    <state x="785" y="402" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1609151665937" />
   </component>
 </project>

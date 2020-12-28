@@ -9,7 +9,6 @@
       <e p="AutoWard.sln" t="IncludeFlat" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="data" t="Include">
-        <e p="wards.csv" t="Include" />
         <e p="wards_Chaos_All_0.csv" t="Include" />
         <e p="wards_Chaos_All_10.csv" t="Include" />
         <e p="wards_Chaos_All_15.csv" t="Include" />

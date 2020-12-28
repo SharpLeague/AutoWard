@@ -126,7 +126,6 @@
     <None Include="data\wards_Order_Regular_5.csv" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="data\wards.csv" />
     <Content Include="data\wards_Chaos_All_0.csv" />
     <Content Include="data\wards_Chaos_All_10.csv" />
     <Content Include="data\wards_Chaos_All_20.csv" />

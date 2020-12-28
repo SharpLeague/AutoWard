@@ -10,7 +10,7 @@
     static class Program
     {
         private static Menu _mainMenu;
-        private static int CurrentlyLoadedMinute = 0;
+        private static int CurrentlyLoadedMinute = -5;
 
         private static List<WardPosition> WardPositions =
             WardPositionReader.Read(HeroManager.Player.Team, CurrentlyLoadedMinute);
@@ -43,6 +43,7 @@
             _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(40, 0, 600)));
             _mainMenu.AddItem(
                 new MenuItem("autoward.on_key", "Put ward in best spot").SetValue(new KeyBind('X', KeyBindType.Press)));
+            _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(15, 0, 100)));
             _mainMenu.AddToMainMenu();
 
             Drawing.OnDraw += Drawing_OnDraw;
@@ -100,6 +101,7 @@
 
             var minPopularity = _mainMenu.Item("autoward.popularity").GetValue<Slider>().Value;
             var minScore = _mainMenu.Item("autoward.score").GetValue<Slider>().Value;
+            var numWards = _mainMenu.Item("autoward.num_wards").GetValue<Slider>().Value;
 
             if (autoWardKey)
             {
@@ -110,6 +112,7 @@
             FilteredWardPositions = WardPositions
                 .Where(wardPosition =>
                     !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 1200))
+                .Take(numWards)
                 .ToList();
 
             if (!CanCastWards()) return;
@@ -141,10 +144,49 @@
             }
         }
 
-        public static void DrawText(string msg, Vector3 position, System.Drawing.Color color, int weight = 0)
+        public static void DrawText(string msg, Vector2 position, System.Drawing.Color color, int weight = 0)
         {
-            var wts = Drawing.WorldToScreen(position);
+            var wts = Drawing.WorldToScreen(position.To3D2());
             Drawing.DrawText(wts[0] - msg.Length * 4, wts[1] + weight + 20, color, msg);
+        }
+        
+        public static bool IsOnScreen(Vector2 pos)
+        {
+            return pos.X > 0 && pos.X <= Drawing.Width && pos.Y > 0 && pos.Y <= Drawing.Height;
+        }
+
+        public static void DrawCross(Vector2 position, System.Drawing.Color color, int size = 25)
+        {
+            var point1 = Drawing.WorldToScreen(new Vector2
+            {
+                X = position.X + size,
+                Y = position.Y + size
+            }.To3D2());
+            var point2 = Drawing.WorldToScreen(new Vector2
+            {
+                X = position.X - size,
+                Y = position.Y - size
+            }.To3D2());
+            var point3 = Drawing.WorldToScreen(new Vector2
+            {
+                X = position.X + size,
+                Y = position.Y - size
+            }.To3D2());
+            var point4 = Drawing.WorldToScreen(new Vector2
+            {
+                X = position.X - size,
+                Y = position.Y + size
+            }.To3D2());
+
+            if (IsOnScreen(point1) && IsOnScreen(point2))
+            {
+                Drawing.DrawLine(point1, point2, 5, color);
+            }
+
+            if (IsOnScreen(point3) && IsOnScreen(point4))
+            {
+                Drawing.DrawLine(point3, point4, 5, color);
+            }
         }
 
         private static void Drawing_OnDraw(EventArgs args)
@@ -152,11 +194,24 @@
             if (OwnWards().Count >= 3) return;
             if (!CanCastWards()) return;
 
-            foreach (var wardPosition in FilteredWardPositions)
+            var minPopularity = _mainMenu.Item("autoward.popularity").GetValue<Slider>().Value;
+            var minScore = _mainMenu.Item("autoward.score").GetValue<Slider>().Value;
+            var autoWardKey = _mainMenu.Item("autoward.on_key").GetValue<KeyBind>().Active;
+
+            foreach (var ward in FilteredWardPositions)
             {
-                Render.Circle.DrawCircle(wardPosition.position.To3D(), 50, System.Drawing.Color.Green, 5);
-                DrawText($"S: {wardPosition.score} P: {wardPosition.popularity}",
-                    wardPosition.position.To3D(), System.Drawing.Color.LightGreen);
+                var textColor = System.Drawing.Color.LightYellow;
+                var boxColor = System.Drawing.Color.Yellow;
+
+                if ((ward.score > minScore && ward.popularity > minPopularity) || autoWardKey)
+                {
+                    textColor = System.Drawing.Color.LightGreen;
+                    boxColor = System.Drawing.Color.Green;
+                }
+
+                DrawText($"S: {ward.score} P: {ward.popularity}",
+                    ward.position, textColor);
+                DrawCross(ward.position, boxColor);
             }
         }
     }
