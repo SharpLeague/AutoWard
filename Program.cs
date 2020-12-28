@@ -39,11 +39,11 @@
             _mainMenu = new Menu("Auto Ward", "autoward", true);
 
             _mainMenu.AddItem(new MenuItem("autoward.on", "Auto Ward").SetValue(true));
-            _mainMenu.AddItem(new MenuItem("autoward.popularity", "Min. popularity").SetValue(new Slider(40, 0, 300)));
-            _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(40, 0, 600)));
+            _mainMenu.AddItem(new MenuItem("autoward.popularity", "Min. popularity").SetValue(new Slider(300, 0, 600)));
+            _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(150, 0, 600)));
             _mainMenu.AddItem(
                 new MenuItem("autoward.on_key", "Put ward in best spot").SetValue(new KeyBind('X', KeyBindType.Press)));
-            _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(15, 0, 100)));
+            _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(20, 0, 100)));
             _mainMenu.AddToMainMenu();
 
             Drawing.OnDraw += Drawing_OnDraw;
@@ -110,9 +110,9 @@
             }
             
             var allyTurrets = ObjectManager
-                .Get<Obj_AI_Turret>().Count(turret => turret.Team == HeroManager.Player.Team);
+                .Get<Obj_AI_Turret>().Count(turret => turret.Team == HeroManager.Player.Team) / 2 * 2;
             var enemyTurrets = ObjectManager
-                .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team);
+                .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team) / 2 * 2;
 
             if (allyTurrets != AllyTurrets || enemyTurrets != EnemyTurrets || WardPositions == null)
             {

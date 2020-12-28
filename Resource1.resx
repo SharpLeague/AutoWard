@@ -118,388 +118,868 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="wards_Chaos_All_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="wards_Chaos_All_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_All_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_All_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_All_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_All_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_All_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_All_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_All_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_All_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_All_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_All_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_All_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_All_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Blue_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Blue_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Blue_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Blue_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Blue_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Blue_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Blue_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Blue_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Blue_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Blue_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Blue_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Blue_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Blue_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Control_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Control_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Control_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Control_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Control_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Control_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Control_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Control_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Control_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Control_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Control_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Control_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Control_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Regular_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Regular_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Regular_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Regular_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Regular_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Regular_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Chaos_Regular_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Chaos_Regular_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Chaos_Regular_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Chaos_Regular_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Chaos_Regular_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Chaos_Regular_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Chaos_Regular_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_All_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_All_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_All_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_All_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_All_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_All_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_All_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_All_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_All_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_All_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_All_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_All_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_All_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Blue_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Blue_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Blue_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Blue_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Blue_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Blue_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Blue_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Blue_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Blue_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Blue_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Blue_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Blue_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Blue_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Control_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Control_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Control_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Control_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Control_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Control_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Control_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Control_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Control_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Control_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Control_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Control_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Control_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_10_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_10_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_12_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_12_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Regular_12_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Regular_12_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_12_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_12_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_12_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_12_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_12_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_12_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Regular_12_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Regular_12_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_12_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_12_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_12_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_12_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_3_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_3_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_2_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_3_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_3_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_2_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_3_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_3_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_3_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_3_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_2_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_2_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_2_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_4_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_4_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_6_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_6_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Regular_6_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Regular_6_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_6_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_6_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_6_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_6_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_6_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_6_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="wards_Order_Regular_6_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>data\wards_Order_Regular_6_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_6_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_6_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_6_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_6_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_9_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_9_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_8_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_10.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_9_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_9_3.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_8_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_12.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_9_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_9_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_2.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="wards_Order_Regular_9_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>data\wards_Order_Regular_9_9.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <data name="wards_Order_Regular_8_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_4.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_8_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_6.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="wards_Order_Regular_8_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>data\wards_Order_Regular_8_8.csv;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
 </root>
