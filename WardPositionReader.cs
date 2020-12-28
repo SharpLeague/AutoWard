@@ -17,6 +17,9 @@ namespace AutoWard
     {
         public static List<WardPosition> Read(GameObjectTeam team, int allyTurrets, int enemyTurrets)
         {
+            allyTurrets = 2;
+            enemyTurrets = 12;
+            
             Console.WriteLine($"Loading wards for {team} {allyTurrets} {enemyTurrets}");
             var teamString = "Chaos";
             if (team == GameObjectTeam.Order)

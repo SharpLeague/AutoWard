@@ -134,6 +134,7 @@
             FilteredWardPositions = WardPositions
                 .Where(wardPosition =>
                     !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 1200))
+                .OrderByDescending(wardPosition => wardPosition.popularity)
                 .Take(numWards)
                 .ToList();
 
