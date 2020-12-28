@@ -40,7 +40,7 @@
 
             _mainMenu.AddItem(new MenuItem("autoward.on", "Auto Ward").SetValue(true));
             _mainMenu.AddItem(new MenuItem("autoward.popularity", "Min. popularity").SetValue(new Slider(300, 0, 600)));
-            _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(150, 0, 600)));
+            _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(50, 0, 600)));
             _mainMenu.AddItem(
                 new MenuItem("autoward.on_key", "Put ward in best spot").SetValue(new KeyBind('X', KeyBindType.Press)));
             _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(20, 0, 100)));
