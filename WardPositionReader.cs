@@ -15,8 +15,9 @@ namespace AutoWard
 
     public static class WardPositionReader
     {
-        public static List<WardPosition> Read(GameObjectTeam team, int minute)
+        public static List<WardPosition> Read(GameObjectTeam team, int allyTurrets, int enemyTurrets)
         {
+            Console.WriteLine($"Loading wards for {team} {allyTurrets} {enemyTurrets}");
             var teamString = "Chaos";
             if (team == GameObjectTeam.Order)
             {
@@ -24,10 +25,10 @@ namespace AutoWard
             }
 
             var output = new List<WardPosition>();
-            var content = Resource1.ResourceManager.GetString($"wards_{teamString}_All_{minute}", Resource1.Culture);
+            var content = Resource1.ResourceManager.GetString($"wards_{teamString}_All_{allyTurrets}_{enemyTurrets}", Resource1.Culture);
             if (content == null)
             {
-                Console.WriteLine($"Not found file wards_{teamString}_All_{minute}.csv");
+                Console.WriteLine($"Not found file wards_{teamString}_All_{allyTurrets}_{enemyTurrets}.csv");
                 return output;
             }
 

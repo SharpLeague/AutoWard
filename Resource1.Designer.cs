@@ -62,1796 +62,3696 @@ namespace AutoWard {
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7812,3560,200,3,12,617
-        ///7976.8247,4281.9023,200,3,15,290
-        ///7074,3112,200,3,12,206
-        ///3276,7786,200,3,12,167
-        ///7468,4990,200,3,11,153
-        ///11856,3834,200,3,25,117
-        ///5208,9158,200,3,25,111
-        ///9406,5620,200,3,37,109
-        ///12464,1446,200,3,32,105
-        ///13528,2644,200,3,41,100
-        ///10602,2988,200,3,95,95
-        ///8636,6646,200,3,16,90
-        ///13108,2014,200,3,44,85
-        ///2996,10984,200,3,17,84
-        ///8500,4806,200,3,17,80
-        ///2876,11262,200,3,36,74
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_0 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7812,3560,200,3,12,617
-        ///7976.8247,4281.9023,200,3,15,290
-        ///7074,3112,200,3,12,206
-        ///3276,7786,200,3,12,167
-        ///7468,4990,200,3,11,153
-        ///11856,3834,200,3,25,117
-        ///5208,9158,200,3,25,111
-        ///9406,5620,200,3,37,109
-        ///12464,1446,200,3,32,105
-        ///13528,2644,200,3,41,100
-        ///10602,2988,200,3,95,95
-        ///8636,6646,200,3,16,90
-        ///13108,2014,200,3,44,85
-        ///2996,10984,200,3,17,84
-        ///8500,4806,200,3,17,80
-        ///2876,11262,200,3,36,74
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_01 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3110,8976,200,3,23,200
-        ///6584,4666,200,3,71,187
-        ///7078,3104,200,3,20,178
-        ///10372,4430,200,3,14,172
-        ///3262,7810,200,3,21,152
-        ///4750,7198,200,3,14,152
-        ///8320,10226,200,3,11,149
-        ///7840,3618,200,3,11,147
-        ///8280,6346,200,3,25,134
-        ///6821.5615,5610.3203,200,3,13,131
-        ///9386,5678,200,3,222,129
-        ///9170,2112,200,3,26,126
-        ///8980.241,4914.1094,200,3,11,123
-        ///11762,3966,200,3,232,122
-        ///5212,9142,200,3,89,121
-        ///9684,6332,200,3,49,121
-        ///11602,7062,200,3,18,116
-        ///4498,11886,200,3,33,110
-        ///8554,6514,200,3,56,110
-        ///10052,4664,200,3,5 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_10 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3110,8976,200,3,23,200
-        ///6584,4666,200,3,71,187
-        ///7078,3104,200,3,20,178
-        ///10372,4430,200,3,14,172
-        ///3262,7810,200,3,21,152
-        ///4750,7198,200,3,14,152
-        ///8320,10226,200,3,11,149
-        ///7840,3618,200,3,11,147
-        ///8280,6346,200,3,25,134
-        ///6821.5615,5610.3203,200,3,13,131
-        ///9386,5678,200,3,222,129
-        ///9170,2112,200,3,26,126
-        ///8980.241,4914.1094,200,3,11,123
-        ///11762,3966,200,3,232,122
-        ///5212,9142,200,3,89,121
-        ///9684,6332,200,3,49,121
-        ///11602,7062,200,3,18,116
-        ///4498,11886,200,3,33,110
-        ///8554,6514,200,3,56,110
-        ///10052,4664,200,3,5 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_101 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11904,5804,200,3,32,193
-        ///7873.926,6007.075,200,3,29,162
-        ///6766,3106,200,3,29,161
-        ///3086,9016,200,3,23,161
-        ///8154,5804,200,3,20,161
-        ///6827.8184,5607.4766,200,3,23,157
-        ///10172,4618,200,3,33,154
-        ///9828,4762,200,3,13,154
-        ///5254,9142,200,3,111,144
-        ///6610,4758,200,3,111,140
-        ///9394,5688,200,3,242,140
-        ///4876,8318,200,3,30,138
-        ///11544,7094,200,3,68,137
-        ///3270,7834,200,3,32,137
-        ///8288,4850,200,3,18,132
-        ///5482,10520,200,3,15,132
-        ///8566,4726,200,3,102,132
-        ///9802,6340,200,3,41,130
-        ///5545.8403,3412.0703,200,3,20,126
-        ///10454,30 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_15 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///4768,10290,200,3,13,226
-        ///5166,8556,200,3,23,210
-        ///8040,5810,200,3,18,198
-        ///7064,3124,200,3,26,163
-        ///5168,9170,200,3,71,159
-        ///4492,11652,200,3,12,158
-        ///5634.593,7873.049,200,3,16,152
-        ///5478.2866,10455.166,200,3,47,147
-        ///9123.142,11427.736,200,3,14,146
-        ///6552,4732,200,3,137,142
-        ///8116,6254,200,3,11,142
-        ///8540,4790,200,3,99,141
-        ///3281.7305,7689.924,200,3,23,139
-        ///6752,3108,200,3,35,139
-        ///3066,9062,200,3,40,135
-        ///9444,5586,200,3,106,133
-        ///7120.034,5611.996,200,3,11,133
-        ///11628,7082,200,3,27,132
-        ///8432,6448,200,3,34 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_20 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///4768,10290,200,3,13,226
-        ///5166,8556,200,3,23,210
-        ///8040,5810,200,3,18,198
-        ///7064,3124,200,3,26,163
-        ///5168,9170,200,3,71,159
-        ///4492,11652,200,3,12,158
-        ///5634.593,7873.049,200,3,16,152
-        ///5478.2866,10455.166,200,3,47,147
-        ///9123.142,11427.736,200,3,14,146
-        ///6552,4732,200,3,137,142
-        ///8116,6254,200,3,11,142
-        ///8540,4790,200,3,99,141
-        ///3281.7305,7689.924,200,3,23,139
-        ///6752,3108,200,3,35,139
-        ///3066,9062,200,3,40,135
-        ///9444,5586,200,3,106,133
-        ///7120.034,5611.996,200,3,11,133
-        ///11628,7082,200,3,27,132
-        ///8432,6448,200,3,34 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_201 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3086,8976,200,3,16,182
-        ///6586,4760,200,3,68,167
-        ///9434,5650,200,3,76,162
-        ///6562,8400,200,3,15,159
-        ///11614,7146,200,3,24,145
-        ///6820.3203,5606.577,200,3,12,137
-        ///3402,7808,200,3,26,134
-        ///5514,3488,200,3,22,131
-        ///4810,7206,200,3,30,131
-        ///5250,9136,200,3,53,131
-        ///10166,4732,200,3,13,129
-        ///6873.938,8629.194,200,3,44,128
-        ///4898,8352,200,3,34,128
-        ///6746,3180,200,3,21,126
-        ///8780.332,6723.504,200,3,22,124
-        ///4840,10222,200,3,16,111
-        ///11884,5838,200,3,16,111
-        ///8342,10210,200,3,52,109
-        ///9775.846,6457.1895,200,3,32,107
-        ///8560, [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_25 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8520,4816,200,3,21,209
-        ///4968.4683,8345.7,200,3,13,185
-        ///4842,7190,200,3,14,167
-        ///9464,5616,200,3,28,150
-        ///3068,8984,200,3,12,137
-        ///6546,4724,200,3,32,136
-        ///5489.8643,10558.087,200,3,13,126
-        ///5152,9100,200,3,11,102
-        ///10422,3058,200,3,11,96
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_30 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8520,4816,200,3,21,209
-        ///4968.4683,8345.7,200,3,13,185
-        ///4842,7190,200,3,14,167
-        ///9464,5616,200,3,28,150
-        ///3068,8984,200,3,12,137
-        ///6546,4724,200,3,32,136
-        ///5489.8643,10558.087,200,3,13,126
-        ///5152,9100,200,3,11,102
-        ///10422,3058,200,3,11,96
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_301 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_301", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_35 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_All_40 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3338,7734,200,3,17,195
-        ///8726,6586,200,3,17,154
-        ///10377.9375,4516.994,200,3,12,147
-        ///5220,9108,200,3,63,136
-        ///9450,5640,200,3,171,133
-        ///10044,4714,200,3,28,129
-        ///9714,6362,200,3,39,123
-        ///10348,3156,200,3,17,115
-        ///8522,4916,200,3,74,111
-        ///11792,3906,200,3,169,110
-        ///12164,1312,200,3,44,107
-        ///6547.0156,4851.652,200,3,11,104
-        ///8260,5726,200,3,12,96
-        ///8142,6322,200,3,12,94
-        ///13128,2068,200,3,59,90
-        ///4168,11884,200,3,15,90
-        ///3106,10846,200,3,138,88
-        ///13472,2758,200,3,92,85
-        ///4478,11770,200,3,26,84
-        ///6384,8274,200,3,12,8 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_All_5 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_All_5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_10 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_101 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6568,4722,200,2,20,91
-        ///9988,4742,200,2,11,84
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_15 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8500,4764,200,2,18,196
-        ///4834,7130,200,2,11,159
-        ///11854,5872,200,2,11,142
-        ///5260,9162,200,2,12,107
-        ///8250,10270,200,2,15,82
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_20 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8500,4764,200,2,18,196
-        ///4834,7130,200,2,11,159
-        ///11854,5872,200,2,11,142
-        ///5260,9162,200,2,12,107
-        ///8250,10270,200,2,15,82
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_201 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3366,7770,200,2,18,135
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_25 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_30 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_35 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Blue_40 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Blue_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_0 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_01 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3086,9040,200,0,15,283
-        ///3370,7754,200,0,12,222
-        ///6536,4708,200,0,16,183
-        ///9440,5636,200,0,139,148
-        ///11784,5946,200,0,19,142
-        ///5314,9180,200,0,38,141
-        ///11496,7124,200,0,13,139
-        ///8540,4762,200,0,38,134
-        ///11756,3872,200,0,58,133
-        ///11928,3624,200,0,19,127
-        ///11944.586,4109.681,200,0,28,120
-        ///4544,11888,200,0,19,116
-        ///8690.723,6775.2773,200,0,17,110
-        ///10122,4636,200,0,47,108
-        ///6760,8572,200,0,31,108
-        ///12572,5280,200,0,13,104
-        ///10544,3028,200,0,45,104
-        ///2986,10952,200,0,23,104
-        ///13456,2632,200,0,12,80
-        ///12616,4948,200,0 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Control_10 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3086,9040,200,0,15,283
-        ///3370,7754,200,0,12,222
-        ///6536,4708,200,0,16,183
-        ///9440,5636,200,0,139,148
-        ///11784,5946,200,0,19,142
-        ///5314,9180,200,0,38,141
-        ///11496,7124,200,0,13,139
-        ///8540,4762,200,0,38,134
-        ///11756,3872,200,0,58,133
-        ///11928,3624,200,0,19,127
-        ///11944.586,4109.681,200,0,28,120
-        ///4544,11888,200,0,19,116
-        ///8690.723,6775.2773,200,0,17,110
-        ///10122,4636,200,0,47,108
-        ///6760,8572,200,0,31,108
-        ///12572,5280,200,0,13,104
-        ///10544,3028,200,0,45,104
-        ///2986,10952,200,0,23,104
-        ///13456,2632,200,0,12,80
-        ///12616,4948,200,0 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Control_101 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11910,5922,200,0,18,191
-        ///5220,9148,200,0,55,162
-        ///6314,10122,200,0,21,158
-        ///9444,5662,200,0,112,149
-        ///11538,7120,200,0,33,149
-        ///9730,6390,200,0,36,148
-        ///3306,7806,200,0,21,148
-        ///6598,4632,200,0,35,143
-        ///7066,3070,200,0,14,141
-        ///10110,4716,200,0,43,138
-        ///8502,4882,200,0,37,127
-        ///6580,8388,200,0,14,121
-        ///3082,10868,200,0,18,120
-        ///6852,8598,200,0,22,113
-        ///4854,7116,200,0,15,110
-        ///11844,4040,200,0,34,108
-        ///8252,10318,200,0,19,107
-        ///10000,7830,200,0,20,97
-        ///8596,6642,200,0,35,94
-        ///10330,3072,200,0,22,94
-        ///12622,5002,200 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Control_15 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5242,9152,200,0,45,209
-        ///6490,4638,200,0,21,172
-        ///9771.134,6458.643,200,0,11,149
-        ///3278,7810,200,0,11,146
-        ///9416,5668,200,0,46,123
-        ///6212,10214,200,0,16,114
-        ///8244,10234,200,0,41,111
-        ///4714,7198,200,0,11,108
-        ///10080,4690,200,0,12,86
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_20 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5242,9152,200,0,45,209
-        ///6490,4638,200,0,21,172
-        ///9771.134,6458.643,200,0,11,149
-        ///3278,7810,200,0,11,146
-        ///9416,5668,200,0,46,123
-        ///6212,10214,200,0,16,114
-        ///8244,10234,200,0,41,111
-        ///4714,7198,200,0,11,108
-        ///10080,4690,200,0,12,86
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_201 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6604,4724,200,0,16,176
-        ///5234,9196,200,0,15,158
-        ///9402,5662,200,0,17,131
-        ///8246,10200,200,0,21,123
-        ///4772,10126,200,0,11,89
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_25 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_30 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_35 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_40 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5218,9188,200,0,40,159
-        ///4478,11770,200,0,11,144
-        ///9358,5586,200,0,53,138
-        ///8590,4794,200,0,34,138
-        ///11864,3716,200,0,34,137
-        ///10176,4734,200,0,19,132
-        ///9778,6432,200,0,13,129
-        ///11818,4022,200,0,159,123
-        ///2916,11262,200,0,14,123
-        ///3094,10796,200,0,37,122
-        ///10635.563,3014.5674,200,0,20,107
-        ///8773.559,6706.8457,200,0,15,96
-        ///13536,2728,200,0,12,91
-        ///6712,8434,200,0,13,87
-        ///12612,4864,200,0,11,69
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Control_5 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Control_5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7820,3578,200,1,12,617
-        ///8028.125,4262.7646,200,1,15,290
-        ///7134,3144,200,1,12,206
-        ///6592,4692,200,1,22,145
-        ///12524,1420,200,1,18,124
-        ///5324,9172,200,1,29,107
-        ///11796,3912,200,1,27,100
-        ///13608,2776,200,1,40,98
-        ///12208,1316,200,1,11,92
-        ///6552,8360,200,1,16,87
-        ///10624,3018,200,1,92,87
-        ///9474,5612,200,1,22,85
-        ///13046,2050,200,1,47,79
-        ///3012,10980,200,1,21,77
-        ///4890,8372,200,1,11,44
-        ///6884.1177,8612.114,200,1,19,43
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_0 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7820,3578,200,1,12,617
-        ///8028.125,4262.7646,200,1,15,290
-        ///7134,3144,200,1,12,206
-        ///6592,4692,200,1,22,145
-        ///12524,1420,200,1,18,124
-        ///5324,9172,200,1,29,107
-        ///11796,3912,200,1,27,100
-        ///13608,2776,200,1,40,98
-        ///12208,1316,200,1,11,92
-        ///6552,8360,200,1,16,87
-        ///10624,3018,200,1,92,87
-        ///9474,5612,200,1,22,85
-        ///13046,2050,200,1,47,79
-        ///3012,10980,200,1,21,77
-        ///4890,8372,200,1,11,44
-        ///6884.1177,8612.114,200,1,19,43
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_01 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6548,4788,200,1,41,166
-        ///7840,3552,200,1,14,131
-        ///6826.664,5632.213,200,1,15,125
-        ///10244,2948,200,1,36,124
-        ///11760,3966,200,1,77,123
-        ///9350,5650,200,1,66,115
-        ///9472.588,2157.926,200,1,27,111
-        ///8168,5832,200,1,18,110
-        ///10576,3038,200,1,272,109
-        ///8424,6492,200,1,28,109
-        ///12608,5090,200,1,14,105
-        ///8506,4744,200,1,59,102
-        ///13372,2492,200,1,15,99
-        ///13560,2760,200,1,78,91
-        ///9700,6412,200,1,29,91
-        ///11934.144,5914.749,200,1,17,90
-        ///4174,11884,200,1,19,89
-        ///4568,11914,200,1,18,89
-        ///5134,8522,200,1,20,87
-        ///2574,13494,200,1, [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_10 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6548,4788,200,1,41,166
-        ///7840,3552,200,1,14,131
-        ///6826.664,5632.213,200,1,15,125
-        ///10244,2948,200,1,36,124
-        ///11760,3966,200,1,77,123
-        ///9350,5650,200,1,66,115
-        ///9472.588,2157.926,200,1,27,111
-        ///8168,5832,200,1,18,110
-        ///10576,3038,200,1,272,109
-        ///8424,6492,200,1,28,109
-        ///12608,5090,200,1,14,105
-        ///8506,4744,200,1,59,102
-        ///13372,2492,200,1,15,99
-        ///13560,2760,200,1,78,91
-        ///9700,6412,200,1,29,91
-        ///11934.144,5914.749,200,1,17,90
-        ///4174,11884,200,1,19,89
-        ///4568,11914,200,1,18,89
-        ///5134,8522,200,1,20,87
-        ///2574,13494,200,1, [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_101 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6510,4582,200,1,37,186
-        ///5623.84,3510.7607,200,1,13,179
-        ///5423.831,7909.2617,200,1,15,172
-        ///6822.232,5619.7793,200,1,20,152
-        ///6766,3092,200,1,18,152
-        ///7820,5852,200,1,11,144
-        ///8388,6456,200,1,27,139
-        ///9472,5640,200,1,144,137
-        ///11596,7106,200,1,32,137
-        ///8510,4736,200,1,77,128
-        ///7063.0166,3168.3008,200,1,18,128
-        ///5196,9150,200,1,38,124
-        ///9312,3770,200,1,15,123
-        ///12671.977,5457.748,200,1,25,118
-        ///3110,9008,200,1,12,117
-        ///9799.93,6529.0986,200,1,49,115
-        ///3020.3225,10803.866,200,1,15,114
-        ///8782.461,6724.3594,200,1, [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_15 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7067.7207,3171.7617,200,1,12,189
-        ///11810,4042,200,1,12,182
-        ///8434,6476,200,1,19,165
-        ///3372,7738,200,1,23,154
-        ///5574.626,7866.6167,200,1,15,152
-        ///9436,5616,200,1,91,150
-        ///5248,9156,200,1,74,150
-        ///6600,4722,200,1,73,137
-        ///5020,8396,200,1,35,136
-        ///5476,3482,200,1,17,131
-        ///8488,4810,200,1,72,130
-        ///5480.1563,10510.371,200,1,31,129
-        ///11546,7168,200,1,25,128
-        ///8689.5625,6769.5977,200,1,35,127
-        ///9764,6392,200,1,52,125
-        ///3066,9124,200,1,15,119
-        ///5242.7285,10924.869,200,1,13,115
-        ///6502,8366,200,1,16,113
-        ///5174.785,7964.71 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_20 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7067.7207,3171.7617,200,1,12,189
-        ///11810,4042,200,1,12,182
-        ///8434,6476,200,1,19,165
-        ///3372,7738,200,1,23,154
-        ///5574.626,7866.6167,200,1,15,152
-        ///9436,5616,200,1,91,150
-        ///5248,9156,200,1,74,150
-        ///6600,4722,200,1,73,137
-        ///5020,8396,200,1,35,136
-        ///5476,3482,200,1,17,131
-        ///8488,4810,200,1,72,130
-        ///5480.1563,10510.371,200,1,31,129
-        ///11546,7168,200,1,25,128
-        ///8689.5625,6769.5977,200,1,35,127
-        ///9764,6392,200,1,52,125
-        ///3066,9124,200,1,15,119
-        ///5242.7285,10924.869,200,1,13,115
-        ///6502,8366,200,1,16,113
-        ///5174.785,7964.71 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_201 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///9362,5654,200,1,43,190
-        ///8660,4720,200,1,11,180
-        ///6536,4752,200,1,50,174
-        ///6716,3164,200,1,11,144
-        ///4974,8436,200,1,23,138
-        ///9704,6422,200,1,28,132
-        ///6825.066,5605.2773,200,1,15,125
-        ///11440,7174,200,1,16,124
-        ///4794,7070,200,1,19,123
-        ///5224.6836,7960.04,200,1,17,122
-        ///8773.102,6703.582,200,1,19,116
-        ///6800,8594,200,1,41,114
-        ///5478.256,10456.549,200,1,17,113
-        ///8300,10298,200,1,33,109
-        ///5318,9168,200,1,25,109
-        ///6342,10136,200,1,22,77
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_25 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8524,4830,200,1,16,235
-        ///8208,10156,200,1,11,228
-        ///4986.9087,8338.841,200,1,11,164
-        ///9446,5638,200,1,16,158
-        ///6486,4698,200,1,17,116
-        ///6854,8598,200,1,23,71
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_30 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8524,4830,200,1,16,235
-        ///8208,10156,200,1,11,228
-        ///4986.9087,8338.841,200,1,11,164
-        ///9446,5638,200,1,16,158
-        ///6486,4698,200,1,17,116
-        ///6854,8598,200,1,23,71
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_301 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_301", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_35 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Chaos_Regular_40 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///7446,4946,200,1,11,124
-        ///5184,9184,200,1,19,113
-        ///6610,4768,200,1,16,106
-        ///8572,4736,200,1,26,101
-        ///10322,2992,200,1,30,98
-        ///11750,4122,200,1,24,98
-        ///11872,3814,200,1,47,95
-        ///10636.292,3015.6433,200,1,254,94
-        ///9286,2150,200,1,15,90
-        ///8000,5790,200,1,11,89
-        ///9458,5638,200,1,52,88
-        ///12204,1276,200,1,46,87
-        ///6988,5628,200,1,16,86
-        ///13032,2010,200,1,89,80
-        ///13530,2652,200,1,84,77
-        ///8794.059,6731.3203,200,1,59,77
-        ///2902,11252,200,1,82,70
-        ///12600,4976,200,1,12,67
-        ///12450,1472,200,1,62,66
-        ///3018,10970,200,1,47,65
-        ///8512,66 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Chaos_Regular_5 {
-            get {
-                return ResourceManager.GetString("wards_Chaos_Regular_5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6996,11334,100,3,18,231
-        ///7792,11808,100,3,12,153
-        ///9380,5648,100,3,48,147
-        ///8230,10234,100,3,33,129
-        ///12314,1418,100,3,36,102
-        ///11760,4034,100,3,57,99
-        ///2922,11320,100,3,25,94
-        ///13382,2520,100,3,36,88
-        ///5224,9078,100,3,24,88
-        ///3010,10988,100,3,13,88
-        ///8116,6206,100,3,31,86
-        ///11900,3762,100,3,39,80
-        ///13044,2020,100,3,11,75
-        ///4182,11798,100,3,20,71
-        ///10278,2892,100,3,22,44
-        ///.
-        /// </summary>
-        public static string wards_Order_All_0 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6996,11334,100,3,18,231
-        ///7792,11808,100,3,12,153
-        ///9380,5648,100,3,48,147
-        ///8230,10234,100,3,33,129
-        ///12314,1418,100,3,36,102
-        ///11760,4034,100,3,57,99
-        ///2922,11320,100,3,25,94
-        ///13382,2520,100,3,36,88
-        ///5224,9078,100,3,24,88
-        ///3010,10988,100,3,13,88
-        ///8116,6206,100,3,31,86
-        ///11900,3762,100,3,39,80
-        ///13044,2020,100,3,11,75
-        ///4182,11798,100,3,20,71
-        ///10278,2892,100,3,22,44
-        ///.
-        /// </summary>
-        public static string wards_Order_All_01 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11608,7058,100,3,43,181
-        ///11919.464,6498.894,100,3,14,175
-        ///3028,9066,100,3,14,156
-        ///11986,5796,100,3,12,141
-        ///5126,8536,100,3,22,137
-        ///5258,9130,100,3,101,135
-        ///10018,7784,100,3,40,134
-        ///11900,3654,100,3,71,128
-        ///2220,9874,100,3,11,125
-        ///12049.523,4561.484,100,3,21,125
-        ///9452,5674,100,3,192,120
-        ///12590,4870,100,3,58,120
-        ///12982,1940,100,3,50,118
-        ///11790,4008,100,3,321,117
-        ///6276,10138,100,3,45,117
-        ///9708,6430,100,3,44,112
-        ///8518,4874,100,3,63,112
-        ///9172.067,7046.001,100,3,25,112
-        ///8569.2705,4557.7686,100,3,13,1 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_10 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11608,7058,100,3,43,181
-        ///11919.464,6498.894,100,3,14,175
-        ///3028,9066,100,3,14,156
-        ///11986,5796,100,3,12,141
-        ///5126,8536,100,3,22,137
-        ///5258,9130,100,3,101,135
-        ///10018,7784,100,3,40,134
-        ///11900,3654,100,3,71,128
-        ///2220,9874,100,3,11,125
-        ///12049.523,4561.484,100,3,21,125
-        ///9452,5674,100,3,192,120
-        ///12590,4870,100,3,58,120
-        ///12982,1940,100,3,50,118
-        ///11790,4008,100,3,321,117
-        ///6276,10138,100,3,45,117
-        ///9708,6430,100,3,44,112
-        ///8518,4874,100,3,63,112
-        ///9172.067,7046.001,100,3,25,112
-        ///8569.2705,4557.7686,100,3,13,1 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_101 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11823.938,6536.563,100,3,11,201
-        ///11624,7098,100,3,44,178
-        ///8154,11758,100,3,21,177
-        ///11930,7454,100,3,21,171
-        ///11728,5916,100,3,66,165
-        ///9315.941,4515.456,100,3,16,150
-        ///8318,10214,100,3,124,139
-        ///6708,3126,100,3,13,138
-        ///3002,8928,100,3,18,137
-        ///3328,7714,100,3,48,131
-        ///7923.3486,9301.223,100,3,19,131
-        ///9672.791,6892.376,100,3,38,130
-        ///9708,3890,100,3,20,127
-        ///5246,9174,100,3,123,127
-        ///9110.539,7100.4297,100,3,48,124
-        ///7072.301,3162.1426,100,3,24,122
-        ///8152,6122,100,3,67,122
-        ///9718,6350,100,3,62,120
-        ///9960,787 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_15 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5237.7876,10002.558,100,3,18,233
-        ///9661.038,6892.614,100,3,15,189
-        ///11122.844,6106.9434,100,3,11,171
-        ///5040,8488,100,3,52,165
-        ///7823.9697,9307.276,100,3,20,158
-        ///8332,6458,100,3,25,158
-        ///7854,11812,100,3,28,156
-        ///9307.167,6983.1772,100,3,16,154
-        ///5266,9120,100,3,276,152
-        ///9384,11484,100,3,17,152
-        ///6582,8364,100,3,25,151
-        ///9430,5628,100,3,123,148
-        ///4958,10174,100,3,46,139
-        ///8358,10142,100,3,62,138
-        ///10166,4730,100,3,11,136
-        ///6330,10040,100,3,71,135
-        ///9818,6488,100,3,45,135
-        ///7068,3058,100,3,22,132
-        ///9052,2078,100 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_20 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5237.7876,10002.558,100,3,18,233
-        ///9661.038,6892.614,100,3,15,189
-        ///11122.844,6106.9434,100,3,11,171
-        ///5040,8488,100,3,52,165
-        ///7823.9697,9307.276,100,3,20,158
-        ///8332,6458,100,3,25,158
-        ///7854,11812,100,3,28,156
-        ///9307.167,6983.1772,100,3,16,154
-        ///5266,9120,100,3,276,152
-        ///9384,11484,100,3,17,152
-        ///6582,8364,100,3,25,151
-        ///9430,5628,100,3,123,148
-        ///4958,10174,100,3,46,139
-        ///8358,10142,100,3,62,138
-        ///10166,4730,100,3,11,136
-        ///6330,10040,100,3,71,135
-        ///9818,6488,100,3,45,135
-        ///7068,3058,100,3,22,132
-        ///9052,2078,100 [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_201 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8160,6240,100,3,59,153
-        ///10004,7766,100,3,36,150
-        ///5246,9126,100,3,67,145
-        ///6270,10168,100,3,44,141
-        ///4972.1953,8345.428,100,3,25,135
-        ///4942,10134,100,3,26,132
-        ///9324,5646,100,3,36,125
-        ///3298,7798,100,3,23,124
-        ///6500,4666,100,3,66,117
-        ///9868,6498,100,3,36,112
-        ///8494,4794,100,3,38,107
-        ///8238,11768,100,3,11,106
-        ///5692,3526,100,3,22,104
-        ///8217.616,3556.6357,100,3,12,104
-        ///6950,3100,100,3,27,95
-        ///8342,10384,100,3,12,93
-        ///.
-        /// </summary>
-        public static string wards_Order_All_25 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///9853.0205,6548.2734,100,3,13,125
-        ///6552,4716,100,3,30,120
-        ///5268,9130,100,3,28,115
-        ///9430,5676,100,3,31,105
-        ///5072,8452,100,3,13,104
-        ///.
-        /// </summary>
-        public static string wards_Order_All_30 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_All_35 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_All_40 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11790,5916,100,3,55,197
-        ///11504,7104,100,3,11,144
-        ///9430,5706,100,3,162,136
-        ///5202,9124,100,3,61,136
-        ///11940,3954,100,3,59,121
-        ///8342,6374,100,3,53,117
-        ///11622.088,5157.4014,100,3,15,114
-        ///11910,3648,100,3,91,112
-        ///8540,4882,100,3,27,112
-        ///13500,2846,100,3,22,112
-        ///10372,3062,100,3,106,107
-        ///12264,1340,100,3,82,105
-        ///9950,6618,100,3,14,101
-        ///3108,10848,100,3,99,99
-        ///13408,2524,100,3,94,98
-        ///6290,10162,100,3,17,92
-        ///7046,11366,100,3,14,90
-        ///12874,1844,100,3,63,89
-        ///4478,11746,100,3,26,89
-        ///12633.043,4848.049,100,3, [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_All_5 {
-            get {
-                return ResourceManager.GetString("wards_Order_All_5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_10 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_101 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///9416,5660,100,2,15,128
-        ///8264,10262,100,2,15,125
-        ///6264,10120,100,2,11,116
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_15 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6408,8276,100,2,12,95
-        ///8288,10290,100,2,14,88
-        ///6284,10180,100,2,18,86
-        ///4812,7152,100,2,11,72
-        ///6526,4680,100,2,12,67
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_20 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///6408,8276,100,2,12,95
-        ///8288,10290,100,2,14,88
-        ///6284,10180,100,2,18,86
-        ///4812,7152,100,2,11,72
-        ///6526,4680,100,2,12,67
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_201 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_25 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_30 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_35 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Blue_40 {
-            get {
-                return ResourceManager.GetString("wards_Order_Blue_40", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_0 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_01 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11730,5888,100,0,28,205
-        ///11566,7132,100,0,22,204
-        ///5242,9140,100,0,68,161
-        ///6328,10084,100,0,23,150
-        ///10000,7852,100,0,13,142
-        ///9452,5674,100,0,92,139
-        ///11726,4024,100,0,72,138
-        ///11872,3654,100,0,14,137
-        ///8178,6262,100,0,68,129
-        ///8502,4802,100,0,54,125
-        ///2924,11162,100,0,30,112
-        ///10076,4728,100,0,21,110
-        ///10312,2918,100,0,206,109
-        ///3118,10842,100,0,44,105
-        ///6269.7188,8051.0894,100,0,11,84
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_10 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11730,5888,100,0,28,205
-        ///11566,7132,100,0,22,204
-        ///5242,9140,100,0,68,161
-        ///6328,10084,100,0,23,150
-        ///10000,7852,100,0,13,142
-        ///9452,5674,100,0,92,139
-        ///11726,4024,100,0,72,138
-        ///11872,3654,100,0,14,137
-        ///8178,6262,100,0,68,129
-        ///8502,4802,100,0,54,125
-        ///2924,11162,100,0,30,112
-        ///10076,4728,100,0,21,110
-        ///10312,2918,100,0,206,109
-        ///3118,10842,100,0,44,105
-        ///6269.7188,8051.0894,100,0,11,84
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_101 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///3424.2852,7706.4688,100,0,13,207
-        ///11576,7088,100,0,22,187
-        ///9990,7816,100,0,26,179
-        ///9758.315,6471.8345,100,0,11,150
-        ///5178,9158,100,0,37,145
-        ///11874,5910,100,0,20,142
-        ///8246,10292,100,0,27,136
-        ///9434,5652,100,0,80,132
-        ///6454,8228,100,0,12,127
-        ///6574,4690,100,0,37,118
-        ///11798,4012,100,0,29,116
-        ///3130,10784,100,0,17,113
-        ///8628,4732,100,0,25,108
-        ///10224,2936,100,0,77,106
-        ///8104,6208,100,0,52,104
-        ///10180,4694,100,0,15,90
-        ///4504,11730,100,0,12,86
-        ///6342,10104,100,0,21,74
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_15 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_15", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///9504,5638,100,0,29,161
-        ///5126.5938,8444.857,100,0,11,161
-        ///5144,9164,100,0,26,153
-        ///8304,10176,100,0,35,148
-        ///3346,7692,100,0,14,138
-        ///6608,4706,100,0,33,134
-        ///8172,6298,100,0,19,128
-        ///2964,9002,100,0,11,124
-        ///10380,3022,100,0,11,119
-        ///6302,10152,100,0,18,104
-        ///10032,7800,100,0,19,103
-        ///11554,7072,100,0,11,103
-        ///8612,4658,100,0,14,79
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_20 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_20", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///9504,5638,100,0,29,161
-        ///5126.5938,8444.857,100,0,11,161
-        ///5144,9164,100,0,26,153
-        ///8304,10176,100,0,35,148
-        ///3346,7692,100,0,14,138
-        ///6608,4706,100,0,33,134
-        ///8172,6298,100,0,19,128
-        ///2964,9002,100,0,11,124
-        ///10380,3022,100,0,11,119
-        ///6302,10152,100,0,18,104
-        ///10032,7800,100,0,19,103
-        ///11554,7072,100,0,11,103
-        ///8612,4658,100,0,14,79
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_201 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_201", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8228,10188,100,0,16,180
-        ///5266,9158,100,0,14,169
-        ///6610,4648,100,0,17,128
-        ///9420,5664,100,0,22,123
-        ///8516,4832,100,0,15,114
-        ///6332,8152,100,0,11,107
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_25 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_25", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_30 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_30", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_35 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_35", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11700,5904,100,0,16,249
-        ///9420,5658,100,0,93,179
-        ///5198,9164,100,0,41,142
-        ///11742,3962,100,0,87,135
-        ///8088,6190,100,0,44,126
-        ///8550,4806,100,0,23,124
-        ///2978,10972,100,0,20,113
-        ///6308,10120,100,0,14,101
-        ///10286,2890,100,0,161,95
-        ///2870,11350,100,0,16,94
-        ///6306,8156,100,0,19,80
-        ///.
-        /// </summary>
-        public static string wards_Order_Control_5 {
-            get {
-                return ResourceManager.GetString("wards_Order_Control_5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8320,10238,100,1,27,146
-        ///12856,1830,100,1,38,139
-        ///9392,5642,100,1,42,114
-        ///12386,1438,100,1,23,111
-        ///2934,11320,100,1,25,94
-        ///8100,6238,100,1,28,93
-        ///5300,9178,100,1,18,93
-        ///11820,4072,100,1,40,93
-        ///11890,3724,100,1,42,75
-        ///13502,2496,100,1,15,68
-        ///3132,10806,100,1,13,68
-        ///4398,11736,100,1,13,54
-        ///10264,2906,100,1,14,43
-        ///6470,8212,100,1,19,39
-        ///.
-        /// </summary>
-        public static string wards_Order_Regular_0 {
-            get {
-                return ResourceManager.GetString("wards_Order_Regular_0", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8320,10238,100,1,27,146
-        ///12856,1830,100,1,38,139
-        ///9392,5642,100,1,42,114
-        ///12386,1438,100,1,23,111
-        ///2934,11320,100,1,25,94
-        ///8100,6238,100,1,28,93
-        ///5300,9178,100,1,18,93
-        ///11820,4072,100,1,40,93
-        ///11890,3724,100,1,42,75
-        ///13502,2496,100,1,15,68
-        ///3132,10806,100,1,13,68
-        ///4398,11736,100,1,13,54
-        ///10264,2906,100,1,14,43
-        ///6470,8212,100,1,19,39
-        ///.
-        /// </summary>
-        public static string wards_Order_Regular_01 {
-            get {
-                return ResourceManager.GetString("wards_Order_Regular_01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11522,7128,100,1,29,155
-        ///9670.658,6897.3477,100,1,21,142
-        ///12009.036,4653.099,100,1,11,138
-        ///11914,3640,100,1,48,134
-        ///11742,5916,100,1,49,132
-        ///8188,10194,100,1,23,129
-        ///12675.916,4902.748,100,1,57,128
-        ///9518,5586,100,1,50,117
-        ///10014,7748,100,1,19,117
-        ///9154.809,7044.3906,100,1,25,112
-        ///11378.133,3108.6973,100,1,12,111
-        ///11760,3992,100,1,398,109
-        ///9672,6352,100,1,37,102
-        ///5256,9208,100,1,27,102
-        ///10075.463,3898.7192,100,1,15,101
-        ///8248,6420,100,1,22,99
-        ///9288,2122,100,1,15,98
-        ///10364,3136,100,1,30,97
-        ///11813. [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_Regular_10 {
-            get {
-                return ResourceManager.GetString("wards_Order_Regular_10", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11522,7128,100,1,29,155
-        ///9670.658,6897.3477,100,1,21,142
-        ///12009.036,4653.099,100,1,11,138
-        ///11914,3640,100,1,48,134
-        ///11742,5916,100,1,49,132
-        ///8188,10194,100,1,23,129
-        ///12675.916,4902.748,100,1,57,128
-        ///9518,5586,100,1,50,117
-        ///10014,7748,100,1,19,117
-        ///9154.809,7044.3906,100,1,25,112
-        ///11378.133,3108.6973,100,1,12,111
-        ///11760,3992,100,1,398,109
-        ///9672,6352,100,1,37,102
-        ///5256,9208,100,1,27,102
-        ///10075.463,3898.7192,100,1,15,101
-        ///8248,6420,100,1,22,99
-        ///9288,2122,100,1,15,98
-        ///10364,3136,100,1,30,97
-        ///11813. [rest of string was truncated]&quot;;.
-        /// </summary>
-        public static string wards_Order_Regular_101 {
-            get {
-                return ResourceManager.GetString("wards_Order_Regular_101", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11823.938,6536.563,100,1,11,201
-        ///8909.059,7240.035,100,1,13,170
-        ///11115.898,6098.8633,100,1,12,168
-        ///8310,10276,100,1,63,158
-        ///11862,7464,100,1,15,157
-        ///11716,5964,100,1,37,147
-        ///4898,8364,100,1,17,144
-        ///7922.176,9295.058,100,1,19,133
-        ///6922,8938,100,1,12,131
-        ///9523.325,6951.366,100,1,25,128
-        ///9794,6414,100,1,45,127
-        ///11532,7184,100,1,27,125
-        ///9164.137,7051.2227,100,1,50,121
-        ///8022,6220,100,1,91,121
-        ///8554,6558,100,1,14,121
-        ///9850.076,7947.1113,100,1,14,121
-        ///12282,1396,100,1,16,120
-        ///7892,11782,100,1,21,116
+        ///3288,7072,200,3,15,185
+        ///4130.804,7657.917,200,3,8,183
+        ///4960,1148,200,3,9,179
+        ///10192,5562,200,3,9,152
+        ///10102,1374,200,3,6,150
+        ///3184,6566,200,3,10,142
+        ///4465.8066,10606.23,200,3,9,131
+        ///9660.703,3949.6997,200,3,9,127
+        ///10566,5066,200,3,15,124
+        ///2080,4726,200,3,12,121
+        ///8194,10892,200,3,6,119
+        ///4072,8560,200,3,9,114
+        ///6128,9152,200,3,6,111
+        ///8034.2236,4265.62,200,3,156,110
+        ///5734.9043,9504.5625,200,3,16,110
+        ///10490.858,4315.542,200,3,228,109
+        ///7214,1232,200,3,9,108
+        ///10980,5220,200,3,16,107
+        ///8794,5074,200,3,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4960,1148,200,3,9,179
+        ///4083.097,10408.869,200,3,10,175
+        ///5028,9768,200,3,10,159
+        ///6918,9676,200,3,12,144
+        ///8073.1943,4415.87,200,3,8,139
+        ///4125.0293,7750.374,200,3,12,135
+        ///10846,5026,200,3,6,125
+        ///10536,4866,200,3,24,124
+        ///2080,4726,200,3,12,121
+        ///5316.6826,6219.37,200,3,6,117
+        ///8183.0044,10958.111,200,3,8,117
+        ///4072,8560,200,3,9,114
+        ///3836,10666,200,3,6,111
+        ///5246.4795,10006.172,200,3,48,111
+        ///10479.474,4294.158,200,3,232,110
+        ///7452,3582,200,3,6,110
+        ///9592,4712,200,3,44,109
+        ///9093.135,4703.382,200,3,27,109
         /// [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_15 {
+        public static string wards_Chaos_All_12_3 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_15", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_12_3", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5174.37,10010.529,100,1,14,216
-        ///9773.117,6909.1777,100,1,13,184
-        ///3422,7750,100,1,20,183
-        ///8332,6452,100,1,14,163
-        ///11760,5868,100,1,23,160
-        ///8280,10200,100,1,103,158
-        ///7068,3128,100,1,14,157
-        ///7782,11798,100,1,13,155
-        ///9323.016,6991.5313,100,1,16,154
-        ///5240,9090,100,1,77,149
-        ///11570,7156,100,1,25,143
-        ///9450,5724,100,1,41,141
-        ///6782,8998,100,1,14,139
-        ///6310,10102,100,1,76,134
-        ///10230,2878,100,1,17,130
-        ///9824,6526,100,1,26,128
-        ///8532,4722,100,1,29,123
-        ///7071.748,8707.418,100,1,16,116
-        ///4914,8412,100,1,13,115
-        ///815 [rest of string was truncated]&quot;;.
+        ///3288,7072,200,3,15,185
+        ///4960,1148,200,3,9,179
+        ///7122,4820,200,3,7,174
+        ///3184,6566,200,3,10,142
+        ///4465.8066,10606.23,200,3,9,131
+        ///9660.703,3949.6997,200,3,9,127
+        ///3623.6782,7708.1025,200,3,21,126
+        ///4720,10364,200,3,48,120
+        ///10450.25,3612.5303,200,3,6,118
+        ///10496,4310,200,3,56,111
+        ///8039.384,4270.083,200,3,312,110
+        ///9453.711,4832.1646,200,3,15,110
+        ///9077.513,4709.9478,200,3,27,109
+        ///5170.826,9994.185,200,3,80,108
+        ///7214,1232,200,3,9,108
+        ///8794,5074,200,3,28,107
+        ///1416,5286,200,3,9,105
+        ///11288,6916,200,3,10,105 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_20 {
+        public static string wards_Chaos_All_12_6 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_20", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_12_6", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5174.37,10010.529,100,1,14,216
-        ///9773.117,6909.1777,100,1,13,184
-        ///3422,7750,100,1,20,183
-        ///8332,6452,100,1,14,163
-        ///11760,5868,100,1,23,160
-        ///8280,10200,100,1,103,158
-        ///7068,3128,100,1,14,157
-        ///7782,11798,100,1,13,155
-        ///9323.016,6991.5313,100,1,16,154
-        ///5240,9090,100,1,77,149
-        ///11570,7156,100,1,25,143
-        ///9450,5724,100,1,41,141
-        ///6782,8998,100,1,14,139
-        ///6310,10102,100,1,76,134
-        ///10230,2878,100,1,17,130
-        ///9824,6526,100,1,26,128
-        ///8532,4722,100,1,29,123
-        ///7071.748,8707.418,100,1,16,116
-        ///4914,8412,100,1,13,115
-        ///815 [rest of string was truncated]&quot;;.
+        ///7122,4820,200,3,7,174
+        ///10192,5562,200,3,9,152
+        ///10526,4952,200,3,75,144
+        ///8073.1943,4415.87,200,3,8,139
+        ///4465.8066,10606.23,200,3,9,131
+        ///12036,9340,200,3,14,122
+        ///5724.339,9508.828,200,3,44,122
+        ///4222.001,10319.699,200,3,20,114
+        ///4072,8560,200,3,9,114
+        ///5224.3213,10005.272,200,3,23,110
+        ///7214,1232,200,3,9,108
+        ///11330,4844,200,3,50,106
+        ///10406,4384,200,3,64,105
+        ///10668,3444,200,3,8,103
+        ///4230,4528,200,3,9,100
+        ///2856,6130,200,3,7,98
+        ///6378,3334,200,3,9,97
+        ///4498,11514,200,3,19,97
+        ///5802,10380,200,3,16,96
+        ///5634,5 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_201 {
+        public static string wards_Chaos_All_12_9 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_201", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_12_9", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///5182,9050,100,1,21,218
-        ///8224,10238,100,1,48,157
-        ///8152,6236,100,1,51,151
-        ///6198,8106,100,1,25,151
-        ///3336,7740,100,1,13,149
-        ///7084,3062,100,1,12,137
-        ///9800,6452,100,1,12,137
-        ///5048,8518,100,1,19,136
-        ///9324,5646,100,1,21,135
-        ///6534,4670,100,1,47,127
-        ///6312,10098,100,1,28,124
-        ///11466,7156,100,1,12,92
-        ///9912.773,7799.8335,100,1,15,88
-        ///8562,4822,100,1,13,86
-        ///5698,3496,100,1,16,85
-        ///.
+        ///4960,1148,200,3,9,179
+        ///4143.0874,10352.268,200,3,9,158
+        ///3138,6590,200,3,15,142
+        ///3412,3040,200,3,16,141
+        ///10378.883,4194.048,200,3,26,135
+        ///4465.8066,10606.23,200,3,9,131
+        ///10292,5282,200,3,16,130
+        ///4668,10302,200,3,12,129
+        ///9660.703,3949.6997,200,3,9,127
+        ///8045.1416,4158.267,200,3,19,127
+        ///3140,8288,200,3,14,119
+        ///10450.25,3612.5303,200,3,6,118
+        ///5046,9682,200,3,9,117
+        ///5316.6826,6219.37,200,3,6,117
+        ///2123.678,4706.5957,200,3,6,116
+        ///3836,10666,200,3,6,111
+        ///6982,9976,200,3,14,111
+        ///7452,3582,200,3,6,110
+        ///87 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_25 {
+        public static string wards_Chaos_All_3_12 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_25", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_3_12", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///8302,10226,100,1,24,214
-        ///5214,9138,100,1,19,145
-        ///9372,5642,100,1,20,128
-        ///9946,6576,100,1,12,101
-        ///6288,10094,100,1,14,96
-        ///.
+        ///4960,1148,200,3,9,179
+        ///4083.097,10408.869,200,3,10,175
+        ///7164,4826,200,3,7,174
+        ///10192,5562,200,3,9,152
+        ///3138,6590,200,3,15,142
+        ///4467.0244,10610.578,200,3,8,140
+        ///10834,5038,200,3,7,135
+        ///11054,7382,200,3,6,128
+        ///2894.134,8422.552,200,3,25,128
+        ///9660.703,3949.6997,200,3,9,127
+        ///10536,4866,200,3,24,124
+        ///5046,9682,200,3,9,117
+        ///3408,7306,200,3,12,115
+        ///4344,9474,200,3,8,114
+        ///9220,5734,200,3,9,114
+        ///4772,4916,200,3,40,112
+        ///6982,9976,200,3,14,111
+        ///9453.711,4832.1646,200,3,15,110
+        ///11490,3368,200,3,8,108
+        ///1416, [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_30 {
+        public static string wards_Chaos_All_3_3 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_30", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_3_3", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
+        ///3434,8416,200,3,6,194
+        ///7522.676,10323.525,200,3,6,180
+        ///4121.5596,10357.08,200,3,10,175
+        ///10768,5532,200,3,7,159
+        ///10312,5042,200,3,15,153
+        ///10102,1374,200,3,6,150
+        ///3184,6566,200,3,10,142
+        ///4454.503,10628.541,200,3,8,140
+        ///2872.5676,8411.3545,200,3,19,129
+        ///7996,4140,200,3,42,128
+        ///5673.5913,9520.564,200,3,23,123
+        ///10447.84,4239.241,200,3,172,116
+        ///3408,7306,200,3,12,115
+        ///5235.8516,10002.383,200,3,23,110
+        ///9453.711,4832.1646,200,3,15,110
+        ///7452,3582,200,3,6,110
+        ///7214,1232,200,3,9,108
+        ///11490,3368,200,3,8,1 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_35 {
+        public static string wards_Chaos_All_3_6 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_35", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_3_6", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///.
+        ///4130.804,7657.917,200,3,8,183
+        ///4960,1148,200,3,9,179
+        ///4121.5596,10357.08,200,3,10,175
+        ///7122,4820,200,3,7,174
+        ///10792,5528,200,3,7,159
+        ///10102,1374,200,3,6,150
+        ///3138,6590,200,3,15,142
+        ///3412,3040,200,3,16,141
+        ///4465.8066,10606.23,200,3,9,131
+        ///4668,10302,200,3,12,129
+        ///3623.6782,7708.1025,200,3,21,126
+        ///5673.1616,9512.432,200,3,23,123
+        ///4072,8560,200,3,9,114
+        ///5090,6032,200,3,15,112
+        ///8023.4434,4253.9766,200,3,79,111
+        ///4560,9756,200,3,8,111
+        ///3836,10666,200,3,6,111
+        ///10368,4418,200,3,114,110
+        ///5230.5293,10001 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_40 {
+        public static string wards_Chaos_All_3_9 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_40", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_3_9", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to x,y,team,type,popularity,score
-        ///11838,5926,100,1,23,163
-        ///8270,10142,100,1,23,124
-        ///11940,3646,100,1,68,114
-        ///11609.051,5159.01,100,1,14,108
-        ///12258,1322,100,1,76,102
-        ///9406,5688,100,1,80,95
-        ///8146,6236,100,1,93,94
-        ///12942,1902,100,1,76,91
-        ///13494,2638,100,1,52,88
-        ///9702,6304,100,1,16,86
-        ///9916,6542,100,1,15,85
-        ///12630,4908,100,1,20,84
-        ///10278,2906,100,1,35,84
-        ///11938,4832,100,1,11,81
-        ///7792,7760,100,1,15,74
-        ///3094,10828,100,1,43,69
-        ///8406,6448,100,1,26,66
-        ///2826,11284,100,1,51,66
-        ///1234,12066,100,1,12,65
-        ///4192,11860,100,1,49,64
-        ///6652,8390,100,1 [rest of string was truncated]&quot;;.
+        ///4960,1148,200,3,9,179
+        ///4121.5596,10357.08,200,3,10,175
+        ///3184,6566,200,3,10,142
+        ///4471.3506,10608.955,200,3,16,140
+        ///2874.6772,8411.207,200,3,19,129
+        ///5673.5913,9520.564,200,3,23,123
+        ///10390,4998,200,3,32,120
+        ///10447.046,4241.5107,200,3,43,116
+        ///8037.5664,4257.7754,200,3,237,111
+        ///7452,3582,200,3,6,110
+        ///3598,7722,200,3,11,105
+        ///4112,7918,200,3,60,104
+        ///9507.66,4872.541,200,3,74,104
+        ///4023.3247,8563.557,200,3,11,103
+        ///3292,3892,200,3,14,102
+        ///10118,6780,200,3,9,102
+        ///10766,5072,200,3,10,100
+        ///4718,10392,200,3 [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string wards_Order_Regular_5 {
+        public static string wards_Chaos_All_6_12 {
             get {
-                return ResourceManager.GetString("wards_Order_Regular_5", resourceCulture);
+                return ResourceManager.GetString("wards_Chaos_All_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3434,8416,200,3,6,194
+        ///7522.676,10323.525,200,3,6,180
+        ///4960,1148,200,3,9,179
+        ///4083.097,10408.869,200,3,10,175
+        ///10192,5562,200,3,9,152
+        ///10452,4988,200,3,21,145
+        ///3138,6590,200,3,15,142
+        ///4468.8364,10609.796,200,3,8,140
+        ///10834,5038,200,3,7,135
+        ///4125.0293,7750.374,200,3,12,135
+        ///2894.134,8422.552,200,3,25,128
+        ///5726.793,9527.593,200,3,20,127
+        ///2080,4726,200,3,12,121
+        ///10450.25,3612.5303,200,3,6,118
+        ///5316.6826,6219.37,200,3,6,117
+        ///4072,8560,200,3,9,114
+        ///4802,4940,200,3,10,112
+        ///4560,9756,200,3,8,111
+        ///8027 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3288,7072,200,3,15,185
+        ///7194,4874,200,3,18,155
+        ///10568,5042,200,3,18,144
+        ///3138,6590,200,3,15,142
+        ///4454.503,10628.541,200,3,8,140
+        ///9074.404,4757.583,200,3,18,132
+        ///5726.793,9527.593,200,3,20,127
+        ///4720,10364,200,3,48,120
+        ///10450.25,3612.5303,200,3,6,118
+        ///10458,4328,200,3,65,114
+        ///4072,8560,200,3,9,114
+        ///10324,5314,200,3,8,112
+        ///7214,1232,200,3,9,108
+        ///8032.1426,4207.1367,200,3,166,108
+        ///11490,3368,200,3,8,108
+        ///4127.298,7908.63,200,3,29,107
+        ///1416,5286,200,3,9,105
+        ///9857.565,4646.3403,200,3,14,104
+        ///6860,516 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,3,10,159
+        ///10102,1374,200,3,6,150
+        ///11054,7382,200,3,6,128
+        ///2879.4414,8409.747,200,3,20,125
+        ///5724.339,9508.828,200,3,44,122
+        ///10450.25,3612.5303,200,3,6,118
+        ///5272.3286,10097.193,200,3,12,115
+        ///4072,8560,200,3,9,114
+        ///10496,5072,200,3,36,112
+        ///8031.962,4261.4556,200,3,156,110
+        ///9453.711,4832.1646,200,3,15,110
+        ///7452,3582,200,3,6,110
+        ///10856,5358,200,3,12,107
+        ///11288,6916,200,3,10,105
+        ///1416,5286,200,3,9,105
+        ///2616,6204,200,3,8,103
+        ///6860,5168,200,3,6,103
+        ///3238,3856,200,3,35,102
+        ///4230,4528,200,3 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4130.804,7657.917,200,3,8,183
+        ///7522.676,10323.525,200,3,6,180
+        ///4960,1148,200,3,9,179
+        ///3184,6566,200,3,10,142
+        ///4468.8364,10609.796,200,3,8,140
+        ///3623.6782,7708.1025,200,3,21,126
+        ///5316.6826,6219.37,200,3,6,117
+        ///10458,4878,200,3,18,115
+        ///4072,8560,200,3,9,114
+        ///9802,4644,200,3,56,113
+        ///9453.711,4832.1646,200,3,15,110
+        ///7214,1232,200,3,9,108
+        ///3072.709,8365.9375,200,3,32,103
+        ///6860,5168,200,3,6,103
+        ///3292,3892,200,3,14,102
+        ///3988,9422,200,3,9,102
+        ///10766,5072,200,3,10,100
+        ///6190,5886,200,3,6,100
+        ///10388,4458,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3288,7072,200,3,15,185
+        ///4960,1148,200,3,9,179
+        ///10792,5528,200,3,7,159
+        ///5028,9768,200,3,10,159
+        ///10102,1374,200,3,6,150
+        ///8048.7773,4109.869,200,3,11,146
+        ///3138,6590,200,3,15,142
+        ///8073.1943,4415.87,200,3,8,139
+        ///11054,7382,200,3,6,128
+        ///10348,5026,200,3,26,124
+        ///5672.797,9532.572,200,3,115,123
+        ///10450.25,3612.5303,200,3,6,118
+        ///10447.046,4241.5107,200,3,43,116
+        ///4222.001,10319.699,200,3,20,114
+        ///4072,8560,200,3,9,114
+        ///7452,3582,200,3,6,110
+        ///4830,4988,200,3,11,109
+        ///11614,8182,200,3,6,105
+        ///1416,5286,200,3,9 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4083.097,10408.869,200,3,10,175
+        ///7164,4826,200,3,7,174
+        ///5278.9653,10102.423,200,3,8,164
+        ///10736,5474,200,3,21,162
+        ///10192,5562,200,3,9,152
+        ///10102,1374,200,3,6,150
+        ///10568,5042,200,3,18,144
+        ///4477.8076,10608.012,200,3,8,140
+        ///2874.3262,8409.051,200,3,19,129
+        ///5564,9492,200,3,18,128
+        ///11054,7382,200,3,6,128
+        ///2080,4726,200,3,12,121
+        ///10450.25,3612.5303,200,3,6,118
+        ///5046,9682,200,3,9,117
+        ///8024.0234,4255.8457,200,3,316,111
+        ///4560,9756,200,3,8,111
+        ///7452,3582,200,3,6,110
+        ///10424,4434,200,3,55,108
+        ///7214,1232,200 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4960,1148,200,3,9,179
+        ///4121.5596,10357.08,200,3,10,175
+        ///10764,5490,200,3,7,162
+        ///10102,1374,200,3,6,150
+        ///3138,6590,200,3,15,142
+        ///3412,3040,200,3,16,141
+        ///4477.8076,10608.012,200,3,8,140
+        ///10292,5282,200,3,16,130
+        ///10742,5046,200,3,26,127
+        ///3623.6782,7708.1025,200,3,21,126
+        ///5672.797,9532.572,200,3,115,123
+        ///4072,8560,200,3,9,114
+        ///3836,10666,200,3,6,111
+        ///7452,3582,200,3,6,110
+        ///3066,8352,200,3,36,108
+        ///7214,1232,200,3,9,108
+        ///11222,4106,200,3,10,105
+        ///10926.401,7228.3794,200,3,6,103
+        ///6860,5168,200,3,6,103
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_All_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_All_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10610,4646,200,2,16,139
+        ///3174,8224,200,2,49,121
+        ///5077.869,9988.974,200,2,10,117
+        ///6860,5168,200,2,6,103
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///9764,4802,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///4734,10356,200,2,12,94
+        ///6960,4266,200,2,6,90
+        ///5428,10512,200,2,32,88
+        ///10964,4336,200,2,35,81
+        ///8318,6432,200,2,37,80
+        ///14125.515,6957.8325,200,2,6,77
+        ///5088,10884,200,2,32,75
+        ///11076,8324,200,2,16,73
+        ///4482,11892,200,2,16,72
+        ///6202,10596,200,2,9,71
+        ///5202,9196,200,2,106,70
+        ///8336,10304,200,2,20,69
+        ///8668,6700,200, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4768,10290,200,2,13,124
+        ///3174,8224,200,2,49,121
+        ///2616,6204,200,2,8,103
+        ///10118,6780,200,2,9,102
+        ///8284,6370,200,2,144,99
+        ///5052,10092,200,2,16,98
+        ///6378,3334,200,2,9,97
+        ///5294,10384,200,2,80,95
+        ///9674,6350,200,2,34,90
+        ///6960,4266,200,2,6,90
+        ///11824,4116,200,2,14,83
+        ///10964,4336,200,2,35,81
+        ///11942.314,5907.849,200,2,23,77
+        ///9376,5536,200,2,25,74
+        ///11076,8324,200,2,16,73
+        ///5170,9180,200,2,98,72
+        ///5196,10702,200,2,40,71
+        ///6202,10596,200,2,9,71
+        ///4758,7224,200,2,35,70
+        ///14102,6954,200,2,7,69
+        ///8054,3338,200,2,30,68
+        ///1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///9892,4764,200,2,30,117
+        ///4230,4528,200,2,9,100
+        ///6378,3334,200,2,9,97
+        ///4734,10356,200,2,12,94
+        ///6960,4266,200,2,6,90
+        ///5764,12834,200,2,9,86
+        ///3522,7754,200,2,16,85
+        ///8338,6290,200,2,140,85
+        ///5130,10144,200,2,25,81
+        ///8606,4698,200,2,70,78
+        ///5376,10568,200,2,16,77
+        ///9750,6312,200,2,19,76
+        ///4476,12018,200,2,6,74
+        ///9496,5552,200,2,26,74
+        ///3062,9060,200,2,60,69
+        ///14102,6954,200,2,7,69
+        ///11376,4136,200,2,9,68
+        ///6984,11370,200,2,12,68
+        ///4356,11454,200,2,16,67
+        ///10244,2560,200,2,25,64
+        ///7926.416,1175 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///3174,8224,200,2,49,121
+        ///9892,4764,200,2,30,117
+        ///5278,10344,200,2,200,102
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///6378,3334,200,2,9,97
+        ///6960,4266,200,2,6,90
+        ///5321.5557,10808.58,200,2,7,85
+        ///10868.248,4357.7764,200,2,14,81
+        ///9130,2128,200,2,54,79
+        ///14125.515,6957.8325,200,2,6,77
+        ///5173.8467,8507.02,200,2,6,77
+        ///9718,6322,200,2,57,76
+        ///9496,5552,200,2,26,74
+        ///5812,12786,200,2,30,71
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///7932,11846,200,2,26,65
+        ///10244,2560,200,2,25,64 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///10610,4646,200,2,16,139
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///9661.375,6423.876,200,2,22,98
+        ///5052,10092,200,2,16,98
+        ///9764,4802,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///5460,10562,200,2,13,85
+        ///9216,2118,200,2,36,83
+        ///10964,4336,200,2,35,81
+        ///5173.8467,8507.02,200,2,6,77
+        ///8552,4788,200,2,83,76
+        ///7968,11838,200,2,12,75
+        ///11076,8324,200,2,16,73
+        ///6202,10596,200,2,9,71
+        ///4654,10186,200,2,9,71
+        ///6908,11368,200,2,48,70
+        ///11376,4136,200,2,9,68
+        ///8056,3376,200,2,64,67
+        ///4356,11454,200,2,16 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3174,8224,200,2,49,121
+        ///5386,10438,200,2,68,116
+        ///2616,6204,200,2,8,103
+        ///10118,6780,200,2,9,102
+        ///6378,3334,200,2,9,97
+        ///4793.176,10309.231,200,2,12,92
+        ///6960,4266,200,2,6,90
+        ///5130,10144,200,2,25,81
+        ///8374,4792,200,2,6,79
+        ///5173.8467,8507.02,200,2,6,77
+        ///5258,9138,200,2,60,73
+        ///5812,12786,200,2,30,71
+        ///6202,10596,200,2,9,71
+        ///9730,6376,200,2,28,70
+        ///8732,6594,200,2,18,69
+        ///12604,5042,200,2,14,68
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///5046,10920,200,2,7,66
+        ///9456,5658,200,2,74,65
+        ///6522,11350,200,2,12, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10180,8048,200,2,8,124
+        ///5126,10052,200,2,22,118
+        ///5170,10866,200,2,9,107
+        ///10118,6780,200,2,9,102
+        ///6378,3334,200,2,9,97
+        ///5358,10300,200,2,23,93
+        ///10964,4336,200,2,35,81
+        ///4568,12018,200,2,20,79
+        ///8606,4698,200,2,70,78
+        ///5218,9110,200,2,56,73
+        ///11076,8324,200,2,16,73
+        ///6202,10596,200,2,9,71
+        ///4390,11770,200,2,16,69
+        ///6984,11370,200,2,12,68
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///9440,5662,200,2,70,64
+        ///5533.9717,3406.8123,200,2,21,64
+        ///12342,5186,200,2,6,64
+        ///8104,3400,200,2,34,64
+        ///10244,2560,200,2,25, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3174,8224,200,2,49,121
+        ///4230,4528,200,2,9,100
+        ///9661.375,6423.876,200,2,22,98
+        ///9778,4754,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///8296,6380,200,2,41,95
+        ///9216,2118,200,2,36,83
+        ///5130,10144,200,2,25,81
+        ///10868.248,4357.7764,200,2,14,81
+        ///5776,12704,200,2,36,79
+        ///10160,8058,200,2,8,78
+        ///8554,4788,200,2,166,76
+        ///2892,9166,200,2,9,74
+        ///5204.5073,10645.09,200,2,20,71
+        ///5202,9168,200,2,106,70
+        ///5480,3334,200,2,15,69
+        ///11874.487,5958.0464,200,2,48,68
+        ///11376,4136,200,2,9,68
+        ///4474,11848,200,2,48,67
+        ///4356,11454,200,2,16,67
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10610,4646,200,2,16,139
+        ///10180,8048,200,2,8,124
+        ///3174,8224,200,2,49,121
+        ///10118,6780,200,2,9,102
+        ///6378,3334,200,2,9,97
+        ///5048,10098,200,2,16,96
+        ///4734,10356,200,2,12,94
+        ///5332,10276,200,2,32,86
+        ///10964,4336,200,2,35,81
+        ///10040,4740,200,2,16,79
+        ///7968,11838,200,2,12,75
+        ///11798,4112,200,2,7,74
+        ///8568,4744,200,2,356,73
+        ///11076,8324,200,2,16,73
+        ///8388,6424,200,2,35,71
+        ///5202,9168,200,2,106,70
+        ///8668,6700,200,2,13,68
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///6727.56,4857.1553,200,2,7,64
+        ///10244,2560,200,2,25, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///10180,8048,200,2,8,124
+        ///9892,4764,200,2,30,117
+        ///6378,3334,200,2,9,97
+        ///9264,2108,200,2,15,90
+        ///8272,6366,200,2,58,84
+        ///8576,4622,200,2,147,79
+        ///5176,9250,200,2,31,69
+        ///5260,10634,200,2,36,68
+        ///11376,4136,200,2,9,68
+        ///3092,11038,200,2,7,67
+        ///4356,11454,200,2,16,67
+        ///6522,11350,200,2,12,65
+        ///11956,5816,200,2,15,64
+        ///3020,8966,200,2,160,64
+        ///10244,2560,200,2,25,64
+        ///5381.293,10208.191,200,2,64,63
+        ///4896,8372,200,2,37,63
+        ///6278,10068,200,2,35,62
+        ///9406,5656,200,2,128,60
+        ///11960,5092,200,2,16,57 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///3174,8224,200,2,49,121
+        ///5872,12810,200,2,27,114
+        ///8300,6292,200,2,22,98
+        ///6378,3334,200,2,9,97
+        ///9674,6350,200,2,34,90
+        ///10964,4336,200,2,35,81
+        ///5490,10596,200,2,10,79
+        ///8636,3748,200,2,6,78
+        ///5306,10238,200,2,34,76
+        ///5242,9116,200,2,116,74
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///5046,10920,200,2,7,66
+        ///5502,3528,200,2,80,65
+        ///11854,5872,200,2,90,63
+        ///3032,8976,200,2,136,63
+        ///9454,5710,200,2,51,62
+        ///4804,7188,200,2,64,61
+        ///3386,7786,200,2,160,60
+        ///6308,10114,200,2,98,60
+        ///7950,3436 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///4230,4528,200,2,9,100
+        ///9764,4802,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///8338,6290,200,2,140,85
+        ///5376,10568,200,2,16,77
+        ///8552,4788,200,2,83,76
+        ///4526,11958,200,2,26,75
+        ///9496,5552,200,2,26,74
+        ///11798,4112,200,2,7,74
+        ///4676,10142,200,2,9,71
+        ///6202,10596,200,2,9,71
+        ///6298,10052,200,2,31,70
+        ///6908,11368,200,2,48,70
+        ///3062,9060,200,2,60,69
+        ///4704,7162,200,2,33,68
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///11884,5838,200,2,105,66
+        ///6522,11350,200,2,12,65
+        ///13596,2456,200,2,9,65
+        ///10244,2560,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10610,4646,200,2,16,139
+        ///3174,8224,200,2,49,121
+        ///6860,5168,200,2,6,103
+        ///2616,6204,200,2,8,103
+        ///4230,4528,200,2,9,100
+        ///5052,10092,200,2,16,98
+        ///6378,3334,200,2,9,97
+        ///4793.176,10309.231,200,2,12,92
+        ///10868.248,4357.7764,200,2,14,81
+        ///8322,6406,200,2,152,79
+        ///5472,10598,200,2,12,77
+        ///3524.668,7703.8535,200,2,17,77
+        ///8518.124,4706.509,200,2,77,76
+        ///9718,6322,200,2,57,76
+        ///11076,8324,200,2,16,73
+        ///4736,7190,200,2,42,71
+        ///6202,10596,200,2,9,71
+        ///8668,6700,200,2,13,68
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,6 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///3174,8224,200,2,49,121
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///8300,6292,200,2,22,98
+        ///9764,4802,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///5302,10408,200,2,92,92
+        ///10868.248,4357.7764,200,2,14,81
+        ///9130,2128,200,2,54,79
+        ///9380,5536,200,2,52,74
+        ///11798,4112,200,2,7,74
+        ///11544,7186,200,2,128,73
+        ///11076,8324,200,2,16,73
+        ///8538,4704,200,2,89,72
+        ///5394,10740,200,2,6,71
+        ///5214,9134,200,2,59,70
+        ///12596,5044,200,2,7,68
+        ///6984,11370,200,2,12,68
+        ///11376,4136,200,2,9,68
+        ///14052,7018,200,2,7,66
+        ///6522 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///3174,8224,200,2,49,121
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///9778,4754,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///5272,10330,200,2,100,93
+        ///10868.248,4357.7764,200,2,14,81
+        ///9446,5586,200,2,56,79
+        ///5277.9673,10694.148,200,2,18,77
+        ///4388,11826,200,2,26,77
+        ///8538,4704,200,2,89,72
+        ///6202,10596,200,2,9,71
+        ///5192,9136,200,2,56,70
+        ///3062,9060,200,2,60,69
+        ///11376,4136,200,2,9,68
+        ///4356,11454,200,2,16,67
+        ///3092,11038,200,2,7,67
+        ///5502,3528,200,2,80,65
+        ///6460,10064,200,2,18,64
+        ///7802,3618,200,2,75,63
+        ///7874,4780,200,2, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5028,9768,200,2,6,206
+        ///10610,4646,200,2,16,139
+        ///4768,10290,200,2,13,124
+        ///3174,8224,200,2,49,121
+        ///5170,10866,200,2,9,107
+        ///5832,12852,200,2,9,105
+        ///10118,6780,200,2,9,102
+        ///4230,4528,200,2,9,100
+        ///9764,4802,200,2,7,97
+        ///6378,3334,200,2,9,97
+        ///5012,10072,200,2,10,81
+        ///10868.248,4357.7764,200,2,14,81
+        ///9288,2156,200,2,48,79
+        ///10052,4710,200,2,17,73
+        ///4482,11892,200,2,16,72
+        ///6202,10596,200,2,9,71
+        ///9424,5626,200,2,292,70
+        ///5218,9150,200,2,58,70
+        ///5240,10280,200,2,78,69
+        ///8396,6462,200,2,78,68
+        ///11376,4136,200,2,9,6 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Blue_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Blue_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///9956,4558,200,0,18,194
+        ///4344,9474,200,0,6,114
+        ///5076.3486,9998.588,200,0,9,104
+        ///3988,9422,200,0,9,102
+        ///10594,4728,200,0,11,95
+        ///10228,2932,200,0,18,91
+        ///5454,10388,200,0,26,91
+        ///9346,11520,200,0,12,90
+        ///3044,9068,200,0,1206,85
+        ///10212,4816,200,0,44,84
+        ///10596.956,5826.8315,200,0,12,81
+        ///6898.249,3174.2686,200,0,41,79
+        ///6574,4700,200,0,512,77
+        ///5230,9108,200,0,460,77
+        ///2666,7540,200,0,36,77
+        ///8029.1006,4263.545,200,0,16,77
+        ///11606,7094,200,0,378,76
+        ///10158,8068,200,0,12,75
+        ///7860,3524,200,0,47,75
+        ///9500,5578,200 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///9874,4606,200,0,18,186
+        ///4344,9474,200,0,6,114
+        ///5242,10206,200,0,18,103
+        ///3988,9422,200,0,9,102
+        ///10450,4348,200,0,25,101
+        ///10228,2890,200,0,34,92
+        ///9574,4608,200,0,23,90
+        ///9346,11520,200,0,12,90
+        ///9736,4932,200,0,42,85
+        ///7834,3748,200,0,16,85
+        ///2962,9000,200,0,52,84
+        ///10070,4024,200,0,58,84
+        ///4882.373,7158.782,200,0,49,81
+        ///5489.682,10402.832,200,0,23,80
+        ///9650,4138,200,0,42,80
+        ///10178,4796,200,0,70,78
+        ///6970.8457,3122,200,0,177,77
+        ///5244,9120,200,0,480,76
+        ///6588,4752,200,0,214,76
+        ///5131.3906,10963.281,200,0,16, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10466,5006,200,0,8,139
+        ///5220.922,9989.771,200,0,8,118
+        ///3988,9422,200,0,9,102
+        ///6404,4674,200,0,16,100
+        ///10230,2920,200,0,18,91
+        ///4630,9988,200,0,14,88
+        ///9825.682,4915.1045,200,0,32,87
+        ///3122,9018,200,0,552,85
+        ///7834,3748,200,0,16,85
+        ///3334,7748,200,0,286,79
+        ///8250,4794,200,0,9,79
+        ///10092,3966,200,0,72,78
+        ///11578,7082,200,0,153,77
+        ///8029.1006,4263.545,200,0,16,77
+        ///10152,8100,200,0,11,76
+        ///5225.826,10907.057,200,0,22,75
+        ///7122,3096,200,0,376,75
+        ///5224,9098,200,0,431,74
+        ///10842,4526,200,0,28,73
+        ///9390,5646,200,0,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5160,10018,200,0,26,124
+        ///3988,9422,200,0,9,102
+        ///11732,5698,200,0,6,91
+        ///7004,3040,200,0,100,81
+        ///10596.956,5826.8315,200,0,12,81
+        ///3308,7784,200,0,1490,80
+        ///4880,8346,200,0,60,78
+        ///2950,9110,200,0,32,78
+        ///4902,10188,200,0,126,77
+        ///6556,4666,200,0,230,77
+        ///6686,3080,200,0,25,77
+        ///5244,9126,200,0,484,76
+        ///10152,8100,200,0,11,76
+        ///5217.63,10931.312,200,0,23,74
+        ///7864,3540,200,0,92,73
+        ///9416,5674,200,0,2793,72
+        ///6290,10144,200,0,420,71
+        ///10114,4660,200,0,257,70
+        ///8190,5742,200,0,14,70
+        ///9662,6372,200,0,202,69
+        ///10250, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4710,10326,200,0,11,125
+        ///10450,4364,200,0,26,105
+        ///3988,9422,200,0,9,102
+        ///5786,3532,200,0,14,98
+        ///10338,3230,200,0,20,97
+        ///4716,9950,200,0,12,91
+        ///11732,5698,200,0,6,91
+        ///3108,8970,200,0,726,88
+        ///5474.546,10356.859,200,0,24,88
+        ///7834,3748,200,0,16,85
+        ///5156,10162,200,0,6,83
+        ///10290,2890,200,0,23,81
+        ///10596.956,5826.8315,200,0,12,81
+        ///3322,7740,200,0,266,80
+        ///8250,4794,200,0,9,79
+        ///4950,8350,200,0,78,79
+        ///9602,7358,200,0,6,78
+        ///6578,4698,200,0,765,77
+        ///8029.1006,4263.545,200,0,16,77
+        ///4768,7210,200,0,71,75
+        ///9771.1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///6632,9980,200,0,8,149
+        ///5220.922,9989.771,200,0,8,118
+        ///3988,9422,200,0,9,102
+        ///5444.664,10293.016,200,0,14,95
+        ///10098,4798,200,0,59,87
+        ///3044,9068,200,0,1206,85
+        ///7834,3748,200,0,16,85
+        ///10663.602,3137.1826,200,0,15,84
+        ///8250,4794,200,0,9,79
+        ///3296,7740,200,0,134,78
+        ///6556,4666,200,0,230,77
+        ///4704,7204,200,0,147,75
+        ///4948,8436,200,0,70,74
+        ///11510,7092,200,0,250,73
+        ///4834,10226,200,0,66,73
+        ///9430,5682,200,0,922,72
+        ///6330,10136,200,0,137,72
+        ///10476,4298,200,0,57,72
+        ///6878,3124,200,0,138,71
+        ///5442,10770,200,0,28,71
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4710,10326,200,0,11,125
+        ///3988,9422,200,0,9,102
+        ///10204,2892,200,0,12,101
+        ///9334,11540,200,0,6,90
+        ///4728,10006,200,0,54,88
+        ///4498,11514,200,0,7,87
+        ///7834,3748,200,0,16,85
+        ///10362,4300,200,0,14,84
+        ///3220,7852,200,0,48,83
+        ///5458,10412,200,0,56,82
+        ///9582,4622,200,0,26,80
+        ///3020,9064,200,0,666,80
+        ///8250,4794,200,0,9,79
+        ///7120,3052,200,0,345,78
+        ///4910,8322,200,0,28,78
+        ///6674.7495,3171.477,200,0,21,78
+        ///11592,7118,200,0,298,76
+        ///6276.961,10257.367,200,0,48,76
+        ///10152,8100,200,0,11,76
+        ///6520,4674,200,0,220,75
+        ///5234,9184,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5224,9988,200,0,7,123
+        ///3988,9422,200,0,9,102
+        ///5430.874,10301.359,200,0,14,95
+        ///10230,2920,200,0,18,91
+        ///3136,9054,200,0,125,88
+        ///3256,7690,200,0,62,88
+        ///10304,3232,200,0,42,86
+        ///10018.552,3889.3901,200,0,70,78
+        ///4980,8448,200,0,46,77
+        ///9860,4824,200,0,34,77
+        ///11616,7106,200,0,120,76
+        ///6548,4696,200,0,254,75
+        ///11940,5694,200,0,31,75
+        ///11722,5924,200,0,284,74
+        ///5230,9152,200,0,1006,74
+        ///7136,3038,200,0,61,73
+        ///4508,11626,200,0,17,73
+        ///8266.301,3607.5596,200,0,18,73
+        ///9434,5632,200,0,928,72
+        ///6328,10162,200,0,122,7 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4344,9474,200,0,6,114
+        ///5084,9994,200,0,9,104
+        ///3988,9422,200,0,9,102
+        ///6720,10074,200,0,10,99
+        ///5454,10388,200,0,26,91
+        ///3042,9004,200,0,540,86
+        ///9564,4592,200,0,19,82
+        ///10290,2890,200,0,23,81
+        ///10596.956,5826.8315,200,0,12,81
+        ///4968,8340,200,0,32,80
+        ///3268,7744,200,0,116,78
+        ///10310,4342,200,0,50,78
+        ///11970,5702,200,0,29,77
+        ///2666,7540,200,0,36,77
+        ///5236,9122,200,0,495,76
+        ///6556,4788,200,0,489,76
+        ///10152,8100,200,0,11,76
+        ///11596,7064,200,0,242,75
+        ///9816,4772,200,0,36,75
+        ///5196,10888,200,0,23,75
+        ///10680,4638,200,0,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4720,10364,200,0,27,124
+        ///4344,9474,200,0,6,114
+        ///6574,10000,200,0,8,111
+        ///3988,9422,200,0,9,102
+        ///5444.664,10293.016,200,0,14,95
+        ///4716,9950,200,0,12,91
+        ///11732,5698,200,0,6,91
+        ///3058,8960,200,0,852,87
+        ///10352,4396,200,0,23,86
+        ///10070,4024,200,0,58,84
+        ///10596.956,5826.8315,200,0,12,81
+        ///3306,7766,200,0,146,79
+        ///5076,10134,200,0,20,78
+        ///11604,7152,200,0,408,76
+        ///5136,10966,200,0,16,76
+        ///6588,4724,200,0,488,75
+        ///7122,3096,200,0,376,75
+        ///9886,4864,200,0,20,74
+        ///5304,9150,200,0,2015,74
+        ///10180,4722,200,0,147,74
+        ///9394, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///6632,9980,200,0,8,149
+        ///10466,5006,200,0,8,139
+        ///10442,4456,200,0,22,108
+        ///5084,9994,200,0,9,104
+        ///3988,9422,200,0,9,102
+        ///9346,11520,200,0,12,90
+        ///5439.9863,10291.812,200,0,16,89
+        ///4630,9988,200,0,14,88
+        ///4312,9714,200,0,14,85
+        ///10663.602,3137.1826,200,0,15,84
+        ///2994,9026,200,0,791,82
+        ///9762,4898,200,0,30,82
+        ///10596.956,5826.8315,200,0,12,81
+        ///10036,4000,200,0,29,80
+        ///7120,3052,200,0,345,78
+        ///6612,4690,200,0,645,78
+        ///4846,10218,200,0,65,78
+        ///12562,5296,200,0,58,78
+        ///8029.1006,4263.545,200,0,16,77
+        ///5136,10966,200 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5692,3512,200,0,28,112
+        ///5076.3486,9998.588,200,0,9,104
+        ///3988,9422,200,0,9,102
+        ///10338,3230,200,0,20,97
+        ///10472,4334,200,0,21,91
+        ///2932,9018,200,0,235,88
+        ///10596.956,5826.8315,200,0,12,81
+        ///3294,7810,200,0,266,80
+        ///5302,10416,200,0,15,79
+        ///10258,2936,200,0,24,79
+        ///4780,10058,200,0,42,78
+        ///4906,8326,200,0,28,78
+        ///6674.7495,3171.477,200,0,21,78
+        ///12530,5284,200,0,78,77
+        ///5256,9158,200,0,496,76
+        ///6588,4752,200,0,214,76
+        ///10152,8100,200,0,11,76
+        ///5225.826,10907.057,200,0,22,75
+        ///7092,3112,200,0,480,75
+        ///7885.7813,361 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5224,9988,200,0,7,123
+        ///3988,9422,200,0,9,102
+        ///4536,11508,200,0,6,90
+        ///7834,3748,200,0,16,85
+        ///3094,8994,200,0,155,84
+        ///5458,10412,200,0,56,82
+        ///2348,9600,200,0,8,82
+        ///10020,4728,200,0,130,82
+        ///9688,4822,200,0,15,82
+        ///4966,8364,200,0,74,81
+        ///9650,4138,200,0,42,80
+        ///8250,4794,200,0,9,79
+        ///10092,3976,200,0,24,78
+        ///11590,7138,200,0,616,76
+        ///7040,3122,200,0,102,76
+        ///5131.3906,10963.281,200,0,16,76
+        ///5222,9182,200,0,914,75
+        ///4868,10158,200,0,77,75
+        ///9390,5638,200,0,3508,73
+        ///10300,4836,200,0,22,72
+        ///3392,7750,200,0,210, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10482,4416,200,0,10,137
+        ///5123.9043,10007.619,200,0,10,110
+        ///3988,9422,200,0,9,102
+        ///5248,10292,200,0,8,87
+        ///9824.609,4902.673,200,0,16,87
+        ///4312,9714,200,0,14,85
+        ///3086,9040,200,0,332,83
+        ///10338,4896,200,0,34,83
+        ///3216,7786,200,0,160,82
+        ///10628,4686,200,0,69,80
+        ///8250,4794,200,0,9,79
+        ///9602,7358,200,0,6,78
+        ///4924,8390,200,0,160,77
+        ///5136,10966,200,0,16,76
+        ///5244,9140,200,0,996,76
+        ///7114,3074,200,0,180,76
+        ///7860,3524,200,0,47,75
+        ///6598,4648,200,0,390,75
+        ///10158,8068,200,0,12,75
+        ///9460,5626,200,0,4415,73
+        ///4874,10202 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5225.6396,10002.883,200,0,21,123
+        ///3988,9422,200,0,9,102
+        ///5627.425,3485.964,200,0,46,95
+        ///10430,4472,200,0,23,95
+        ///10228,2890,200,0,34,92
+        ///2932,9018,200,0,235,88
+        ///10098,4798,200,0,59,87
+        ///4498,11514,200,0,7,87
+        ///11598,7100,200,0,134,80
+        ///6866,3034,200,0,66,79
+        ///3318,7874,200,0,204,78
+        ///10018.552,3889.3901,200,0,70,78
+        ///6584,4670,200,0,234,77
+        ///5254,9142,200,0,497,75
+        ///5450,10438,200,0,64,75
+        ///9406,5598,200,0,750,73
+        ///4696,7196,200,0,102,72
+        ///2538,9720,200,0,24,72
+        ///11808,3682,200,0,41,72
+        ///4798,10186,200,0,176, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5224,9988,200,0,7,123
+        ///3988,9422,200,0,9,102
+        ///10338,3230,200,0,20,97
+        ///9872.127,4910.0884,200,0,24,93
+        ///5470.208,10357.722,200,0,24,88
+        ///3142,9024,200,0,110,87
+        ///6632,4798,200,0,76,81
+        ///10372,4478,200,0,75,81
+        ///10268,2922,200,0,25,80
+        ///3318,7774,200,0,151,79
+        ///12562,5296,200,0,58,78
+        ///4980,8448,200,0,46,77
+        ///2666,7540,200,0,36,77
+        ///10632,4652,200,0,92,76
+        ///11596,7064,200,0,242,75
+        ///4808,10164,200,0,204,74
+        ///7078,3104,200,0,200,74
+        ///5280,9148,200,0,454,73
+        ///5126.129,10960.895,200,0,13,73
+        ///2584,9696,200,0,12,72
+        ///9 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Control_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Control_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10312,5042,200,1,11,181
+        ///4960,1148,200,1,9,179
+        ///3184,6566,200,1,10,142
+        ///2888.193,8426.57,200,1,18,135
+        ///4864,10038,200,1,12,128
+        ///9084.18,4772.168,200,1,57,125
+        ///6138.1367,3907.0469,200,1,8,119
+        ///4222.001,10319.699,200,1,20,114
+        ///8024.0234,4255.8457,200,1,300,112
+        ///5734.9043,9504.5625,200,1,16,110
+        ///5233.0117,9993.121,200,1,30,109
+        ///7214,1232,200,1,9,108
+        ///8794,5074,200,1,28,107
+        ///10488,4342,200,1,35,106
+        ///8710,5834,200,1,16,106
+        ///11222,4106,200,1,10,105
+        ///7024,9998,200,1,11,104
+        ///5812,10476,200,1,8,103
+        ///227 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4960,1148,200,1,9,179
+        ///7164,4826,200,1,7,174
+        ///4143.0874,10352.268,200,1,9,158
+        ///4632,9798,200,1,6,153
+        ///4467.0244,10610.578,200,1,7,147
+        ///3184,6566,200,1,10,142
+        ///6124,3984,200,1,8,119
+        ///5628.5933,9531.1875,200,1,96,117
+        ///10356,4444,200,1,56,114
+        ///4802,4940,200,1,10,112
+        ///8024.633,4259.4473,200,1,74,112
+        ///2780,6348,200,1,9,112
+        ///5224.3213,10005.272,200,1,15,109
+        ///7214,1232,200,1,9,108
+        ///5378,5788,200,1,8,107
+        ///3028.637,8379.444,200,1,35,106
+        ///3568.5054,7683.399,200,1,8,106
+        ///1416,5286,200,1,9,105
+        ///2272,5250,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10980,5220,200,1,6,218
+        ///10312,5042,200,1,11,181
+        ///9453.711,4832.1646,200,1,6,176
+        ///10764,5490,200,1,7,162
+        ///10102,1374,200,1,6,150
+        ///3184,6566,200,1,10,142
+        ///10416,4272,200,1,90,134
+        ///2874.8445,8432.222,200,1,38,129
+        ///6138.1367,3907.0469,200,1,8,119
+        ///5316.6826,6219.37,200,1,6,117
+        ///4718,10022,200,1,8,117
+        ///4072,8560,200,1,9,114
+        ///11218,7082,200,1,6,113
+        ///8043.729,4211.402,200,1,75,112
+        ///10596,4612,200,1,58,111
+        ///9093.135,4703.382,200,1,26,111
+        ///2932,7240,200,1,32,111
+        ///7214,1232,200,1,9,108
+        ///7038,9952,200,1,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///9453.711,4832.1646,200,1,6,176
+        ///4121.5596,10357.08,200,1,10,175
+        ///10692,5456,200,1,6,155
+        ///10192,5562,200,1,9,152
+        ///4467.0244,10610.578,200,1,7,147
+        ///3184,6566,200,1,10,142
+        ///2874.6772,8411.207,200,1,19,129
+        ///11322,4782,200,1,7,128
+        ///5673.5913,9520.564,200,1,23,123
+        ///10460,4310,200,1,82,123
+        ///10450.25,3612.5303,200,1,6,118
+        ///2123.678,4706.5957,200,1,6,116
+        ///11288,6916,200,1,6,114
+        ///10364,5274,200,1,24,112
+        ///7972.3955,4278.693,200,1,150,111
+        ///3836,10666,200,1,6,111
+        ///5235.8516,10002.383,200,1,15,109
+        ///7214,123 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4121.5596,10357.08,200,1,10,175
+        ///7194,4874,200,1,18,155
+        ///4468.8364,10609.796,200,1,7,147
+        ///3184,6566,200,1,10,142
+        ///4125.0293,7750.374,200,1,12,135
+        ///10491.54,4306.3784,200,1,39,129
+        ///11218,7082,200,1,6,113
+        ///8023.8223,4256.705,200,1,74,112
+        ///2780,6348,200,1,9,112
+        ///5246.4795,10006.172,200,1,30,109
+        ///4830,4988,200,1,11,109
+        ///7214,1232,200,1,9,108
+        ///10571.553,4608.3613,200,1,21,106
+        ///3074,8366,200,1,32,103
+        ///5821.883,10457.695,200,1,16,103
+        ///4023.3247,8563.557,200,1,11,103
+        ///2272,5250,200,1,16,103
+        ///3292,3892 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7128,4746,200,1,15,203
+        ///3288,7072,200,1,15,185
+        ///4960,1148,200,1,9,179
+        ///4143.0874,10352.268,200,1,9,158
+        ///10692,5456,200,1,6,155
+        ///10102,1374,200,1,6,150
+        ///4468.8364,10609.796,200,1,7,147
+        ///3184,6566,200,1,10,142
+        ///10382,4832,200,1,42,121
+        ///10450.25,3612.5303,200,1,6,118
+        ///10482,4338,200,1,117,116
+        ///5090,6032,200,1,15,112
+        ///2978.486,8382.401,200,1,72,111
+        ///3836,10666,200,1,6,111
+        ///5235.8516,10002.383,200,1,15,109
+        ///7423.959,5208.5547,200,1,40,108
+        ///10622,4646,200,1,30,108
+        ///7214,1232,200,1,9,108
+        ///3568.5054,76 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///9590,4630,200,1,9,220
+        ///3288,7072,200,1,15,185
+        ///4121.5596,10357.08,200,1,10,175
+        ///7122,4820,200,1,7,174
+        ///12036,9340,200,1,8,170
+        ///10192,5562,200,1,9,152
+        ///3138,6590,200,1,15,142
+        ///4465.8066,10606.23,200,1,8,137
+        ///10416,4272,200,1,90,134
+        ///5724.339,9508.828,200,1,44,122
+        ///6138.1367,3907.0469,200,1,8,119
+        ///10450.25,3612.5303,200,1,6,118
+        ///4072,8560,200,1,9,114
+        ///11288,6916,200,1,6,114
+        ///3756,6462,200,1,9,113
+        ///10582,4590,200,1,44,112
+        ///8024.0234,4255.8457,200,1,300,112
+        ///4752,4938,200,1,40,112
+        ///5090,6032,200,1, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10736,5474,200,1,21,162
+        ///4143.0874,10352.268,200,1,9,158
+        ///4477.8076,10608.012,200,1,7,147
+        ///3184,6566,200,1,10,142
+        ///2874.3262,8409.051,200,1,19,129
+        ///4864,10038,200,1,12,128
+        ///10536,4866,200,1,24,124
+        ///2080,4726,200,1,12,121
+        ///10770,5116,200,1,9,113
+        ///10440,4382,200,1,92,113
+        ///5090,6032,200,1,15,112
+        ///8037.8833,4263.817,200,1,222,112
+        ///3836,10666,200,1,6,111
+        ///6226,8086,200,1,16,110
+        ///7214,1232,200,1,9,108
+        ///10348,5256,200,1,9,107
+        ///5048,5442,200,1,9,106
+        ///11250,4808,200,1,10,106
+        ///11222,4106,200,1,10,105
+        ///227 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10980,5220,200,1,6,218
+        ///8048.7773,4109.869,200,1,8,194
+        ///3288,7072,200,1,15,185
+        ///4960,1148,200,1,9,179
+        ///9453.711,4832.1646,200,1,6,176
+        ///4121.5596,10357.08,200,1,10,175
+        ///10736,5474,200,1,21,162
+        ///10192,5562,200,1,9,152
+        ///10447.84,4239.241,200,1,108,146
+        ///3184,6566,200,1,10,142
+        ///3412,3040,200,1,16,141
+        ///8073.1943,4415.87,200,1,8,139
+        ///4864,10038,200,1,12,128
+        ///2080,4726,200,1,12,121
+        ///5316.6826,6219.37,200,1,6,117
+        ///11288,6916,200,1,6,114
+        ///4072,8560,200,1,9,114
+        ///10280,5182,200,1,12,112
+        ///2780,6348,200,1,9, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7128,4746,200,1,15,203
+        ///8048.7773,4109.869,200,1,8,194
+        ///3288,7072,200,1,15,185
+        ///7522.676,10323.525,200,1,6,180
+        ///4960,1148,200,1,9,179
+        ///10692,5456,200,1,6,155
+        ///10102,1374,200,1,6,150
+        ///3138,6590,200,1,15,142
+        ///3412,3040,200,1,16,141
+        ///5724.339,9508.828,200,1,44,122
+        ///8194,10892,200,1,6,119
+        ///6124,3984,200,1,8,119
+        ///4222.001,10319.699,200,1,20,114
+        ///4072,8560,200,1,9,114
+        ///2780,6348,200,1,9,112
+        ///2976.809,8377.704,200,1,144,111
+        ///6128,9152,200,1,6,111
+        ///7214,1232,200,1,9,108
+        ///10488,4342,200,1,35,106
+        ///1416,52 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10980,5220,200,1,6,218
+        ///8048.7773,4109.869,200,1,8,194
+        ///7522.676,10323.525,200,1,6,180
+        ///4960,1148,200,1,9,179
+        ///7164,4826,200,1,7,174
+        ///4143.0874,10352.268,200,1,9,158
+        ///4468.8364,10609.796,200,1,7,147
+        ///3138,6590,200,1,15,142
+        ///3412,3040,200,1,16,141
+        ///4125.0293,7750.374,200,1,12,135
+        ///5564,9492,200,1,18,128
+        ///10536,4866,200,1,24,124
+        ///6124,3984,200,1,8,119
+        ///4072,8560,200,1,9,114
+        ///7214,1232,200,1,9,108
+        ///8710,5834,200,1,16,106
+        ///1416,5286,200,1,9,105
+        ///4500,11522,200,1,12,103
+        ///12070,9462,200,1,10,103
+        ///3292 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4960,1148,200,1,9,179
+        ///9468,4824,200,1,18,176
+        ///4143.0874,10352.268,200,1,9,158
+        ///10692,5456,200,1,6,155
+        ///10192,5562,200,1,9,152
+        ///3184,6566,200,1,10,142
+        ///10450,5094,200,1,11,135
+        ///4864,10038,200,1,12,128
+        ///2879.4414,8409.747,200,1,20,125
+        ///5219.7183,9985.909,200,1,32,125
+        ///5672.797,9532.572,200,1,115,123
+        ///10478,4320,200,1,42,122
+        ///6138.1367,3907.0469,200,1,8,119
+        ///9816,3922,200,1,9,115
+        ///3344,8450,200,1,8,114
+        ///2780,6348,200,1,9,112
+        ///6128,9152,200,1,6,111
+        ///11490,3368,200,1,8,108
+        ///7214,1232,200,1,9,108
+        ///11 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7128,4746,200,1,15,203
+        ///8048.7773,4109.869,200,1,8,194
+        ///4083.097,10408.869,200,1,10,175
+        ///10692,5456,200,1,6,155
+        ///10102,1374,200,1,6,150
+        ///3138,6590,200,1,15,142
+        ///10474,4296,200,1,76,130
+        ///2874.6772,8411.207,200,1,19,129
+        ///10536,4866,200,1,24,124
+        ///5673.1616,9512.432,200,1,23,123
+        ///6124,3984,200,1,8,119
+        ///5316.6826,6219.37,200,1,6,117
+        ///11288,6916,200,1,6,114
+        ///7214,1232,200,1,9,108
+        ///1416,5286,200,1,9,105
+        ///11190,4062,200,1,15,105
+        ///7076,10006,200,1,11,104
+        ///4469.5996,10508.155,200,1,6,104
+        ///4023.3247,8563. [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///8048.7773,4109.869,200,1,8,194
+        ///7122,4820,200,1,7,174
+        ///10192,5562,200,1,9,152
+        ///4467.0244,10610.578,200,1,7,147
+        ///9089.421,4771.708,200,1,15,147
+        ///3412,3040,200,1,16,141
+        ///8073.1943,4415.87,200,1,8,139
+        ///4125.0293,7750.374,200,1,12,135
+        ///10368.508,4192.9263,200,1,12,132
+        ///10348,5026,200,1,20,129
+        ///11218,7082,200,1,6,113
+        ///6226,8086,200,1,16,110
+        ///7214,1232,200,1,9,108
+        ///5048,5442,200,1,9,106
+        ///2272,5250,200,1,16,103
+        ///4023.3247,8563.557,200,1,11,103
+        ///5623.5835,9516.237,200,1,21,102
+        ///3238,3856,200,1,35,102
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7128,4746,200,1,15,203
+        ///7522.676,10323.525,200,1,6,180
+        ///9453.711,4832.1646,200,1,6,176
+        ///4121.5596,10357.08,200,1,10,175
+        ///10192,5562,200,1,9,152
+        ///3138,6590,200,1,15,142
+        ///2879.8896,8428.422,200,1,19,129
+        ///5564,9492,200,1,18,128
+        ///4864,10038,200,1,12,128
+        ///10414,5282,200,1,6,123
+        ///6124,3984,200,1,8,119
+        ///9816,3922,200,1,9,115
+        ///10424,4434,200,1,34,112
+        ///2780,6348,200,1,9,112
+        ///10190,4836,200,1,132,110
+        ///5235.8516,10002.383,200,1,15,109
+        ///6080.1704,5551.5586,200,1,10,108
+        ///7214,1232,200,1,9,108
+        ///5048,5442,200 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7122,4820,200,1,7,174
+        ///10768,5532,200,1,7,159
+        ///10192,5562,200,1,9,152
+        ///10102,1374,200,1,6,150
+        ///4454.503,10628.541,200,1,7,147
+        ///3138,6590,200,1,15,142
+        ///3412,3040,200,1,16,141
+        ///10473.407,4309.0313,200,1,39,129
+        ///5564,9492,200,1,18,128
+        ///11322,4782,200,1,7,128
+        ///10792,4994,200,1,9,119
+        ///8194,10892,200,1,6,119
+        ///5316.6826,6219.37,200,1,6,117
+        ///4222.001,10319.699,200,1,20,114
+        ///11218,7082,200,1,6,113
+        ///4752,4938,200,1,40,112
+        ///2780,6348,200,1,9,112
+        ///6128,9152,200,1,6,111
+        ///3836,10666,200,1,6,111
+        ///5360,10418,20 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Chaos_Regular_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Chaos_Regular_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///4212,10274,100,3,14,172
+        ///8024.324,5912.7485,100,3,7,166
+        ///6952,4724,100,3,12,147
+        ///4218,9474,100,3,52,144
+        ///8968,5454,100,3,8,124
+        ///11519.379,9545.578,100,3,7,123
+        ///4756,10026,100,3,102,120
+        ///7279.6484,10690.15,100,3,10,119
+        ///12732.615,7514.075,100,3,16,118
+        ///11722,6740,100,3,42,117
+        ///11254,7204,100,3,27,116
+        ///3464,8190,100,3,6,115
+        ///10288,4950,100,3,38,114
+        ///5240,10160,100,3,80,113
+        ///11620,5300,100,3,19,111
+        ///9562,9156,100,3,21,110
+        ///6668,11696,100,3,6,107
+        ///11060.297,6150.117,100,3,15 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5328,10822,100,3,12,199
+        ///4212,10274,100,3,14,172
+        ///10810,5336,100,3,11,171
+        ///8031.7188,5927.052,100,3,7,166
+        ///11980,9144,100,3,9,159
+        ///6952,4724,100,3,12,147
+        ///4927.327,10927.279,100,3,14,138
+        ///10566.393,4344.133,100,3,16,137
+        ///11121.358,8134.6216,100,3,11,136
+        ///5342,10144,100,3,9,131
+        ///8588,5518,100,3,7,131
+        ///8968,5454,100,3,8,124
+        ///6936,9556,100,3,8,123
+        ///9488,9300,100,3,6,118
+        ///11746,7628,100,3,12,117
+        ///3586,9712,100,3,9,116
+        ///5039.117,9777.496,100,3,9,115
+        ///7528.3066,5220.6133,100,3,15,113
+        ///4469.8945,10506 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4212,10274,100,3,14,172
+        ///8674.156,10957.758,100,3,10,157
+        ///10628.016,4352.7266,100,3,8,150
+        ///6952,4724,100,3,12,147
+        ///11690.577,6488.9595,100,3,28,129
+        ///11519.379,9545.578,100,3,7,123
+        ///7420.535,5219.2793,100,3,6,122
+        ///11306,6842,100,3,18,121
+        ///10582,5456,100,3,24,120
+        ///4394,9716,100,3,11,116
+        ///9982,4918,100,3,9,110
+        ///9540,9166,100,3,14,110
+        ///11054.089,6153.123,100,3,51,107
+        ///12458,7272,100,3,15,107
+        ///3777.6143,8558.069,100,3,6,104
+        ///4730,10584,100,3,64,100
+        ///11000,8634,100,3,9,99
+        ///7024,9996,100,3,28,98
+        ///1131 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///4212,10274,100,3,14,172
+        ///8024.324,5912.7485,100,3,7,166
+        ///4328,9960,100,3,6,154
+        ///11121.358,8134.6216,100,3,11,136
+        ///10460,5190,100,3,21,130
+        ///4216,9568,100,3,28,130
+        ///7233.7344,10635.608,100,3,12,124
+        ///5288,10162,100,3,30,121
+        ///11330,6780,100,3,6,121
+        ///3464,8190,100,3,6,115
+        ///8675.391,11057.547,100,3,24,114
+        ///4979.25,9982.982,100,3,59,111
+        ///5464.707,11160.225,100,3,22,109
+        ///12458,7272,100,3,15,107
+        ///10896,11222,100,3,18,106
+        ///4620,9310,100,3,12,106
+        ///8476,5928,100,3,6,106
+        ///7175.962,32 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///4212,10274,100,3,14,172
+        ///8674.156,10957.758,100,3,10,157
+        ///2818,7372,100,3,6,124
+        ///11306,6842,100,3,18,121
+        ///12732.615,7514.075,100,3,16,118
+        ///11722,6740,100,3,42,117
+        ///13124,9268,100,3,6,113
+        ///11386,6404,100,3,6,110
+        ///5144,12104,100,3,6,109
+        ///5464.707,11160.225,100,3,22,109
+        ///12724,2786,100,3,21,108
+        ///11069.121,6153.965,100,3,51,107
+        ///6678,11692,100,3,12,107
+        ///10816,4558,100,3,22,106
+        ///8476,5928,100,3,6,106
+        ///3777.6143,8558.069,100,3,6,104
+        ///4398,9934,100,3,13,101
+        ///8066,4760,100,3,24, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5424.248,10775.918,100,3,8,172
+        ///8024.324,5912.7485,100,3,7,166
+        ///10628.016,4352.7266,100,3,8,150
+        ///11121.358,8134.6216,100,3,11,136
+        ///11634,5332,100,3,12,134
+        ///4598,9726,100,3,18,132
+        ///6894,4656,100,3,15,124
+        ///7420.535,5219.2793,100,3,6,122
+        ///12732.615,7514.075,100,3,16,118
+        ///11507.211,9549.922,100,3,18,116
+        ///11760,6032,100,3,55,112
+        ///6668,11696,100,3,6,107
+        ///5478,11138,100,3,25,104
+        ///3777.6143,8558.069,100,3,6,104
+        ///4818,10152,100,3,158,102
+        ///10807.855,8256.443,100,3,34,99
+        ///7210,9830,100,3,11,98
+        ///3572,9716 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4228,10276,100,3,7,172
+        ///8031.7188,5927.052,100,3,7,166
+        ///11384,6540,100,3,7,146
+        ///5342,10144,100,3,9,131
+        ///4216,9568,100,3,28,130
+        ///7420.535,5219.2793,100,3,6,122
+        ///11306,6842,100,3,18,121
+        ///4756,10026,100,3,102,120
+        ///4440,9962,100,3,32,119
+        ///12732.615,7514.075,100,3,16,118
+        ///11746,7628,100,3,12,117
+        ///5039.117,9777.496,100,3,9,115
+        ///8675.391,11057.547,100,3,24,114
+        ///11069.121,6153.965,100,3,51,107
+        ///8612,5544,100,3,12,106
+        ///11019.484,6558.5293,100,3,34,106
+        ///5852,10150,100,3,51,105
+        ///11954,2668,100,3,8,97
+        ///710 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5328,10822,100,3,12,199
+        ///8023.157,5912.6973,100,3,7,166
+        ///11980,9144,100,3,9,159
+        ///4878.284,9950.387,100,3,34,157
+        ///6952,4724,100,3,12,147
+        ///11634,5332,100,3,12,134
+        ///4180,9566,100,3,14,130
+        ///3812,10258,100,3,6,129
+        ///11260,4420,100,3,7,128
+        ///8968,5454,100,3,8,124
+        ///5010,10894,100,3,22,121
+        ///12732.615,7514.075,100,3,16,118
+        ///11507.211,9549.922,100,3,18,116
+        ///4452.875,10394.065,100,3,96,114
+        ///8856,4032,100,3,8,114
+        ///5240,10160,100,3,80,113
+        ///4536,9734,100,3,17,111
+        ///5144,12104,100,3,6,109
+        ///11056.25,6157.7734,100 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///5328,10822,100,3,12,199
+        ///8023.157,5912.6973,100,3,7,166
+        ///10632.268,4348.8223,100,3,48,150
+        ///6952,4724,100,3,12,147
+        ///4554,9710,100,3,51,142
+        ///4744,9952,100,3,29,136
+        ///3812,10258,100,3,6,129
+        ///7680,5674,100,3,26,126
+        ///7233.7344,10635.608,100,3,12,124
+        ///8968,5454,100,3,8,124
+        ///6936,9556,100,3,8,123
+        ///4220,9520,100,3,32,123
+        ///7423.7783,5213.7837,100,3,6,122
+        ///8856,4032,100,3,8,114
+        ///5000.1357,10975.021,100,3,10,113
+        ///9540,9166,100,3,14,110
+        ///10288,4386,100,3,66,110
+        ///5520,11138,100,3,25,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4212,10274,100,3,14,172
+        ///6952,4724,100,3,12,147
+        ///11410,6550,100,3,7,146
+        ///4218,9474,100,3,52,144
+        ///4744,9980,100,3,80,133
+        ///8570,5528,100,3,7,131
+        ///11972,5596,100,3,6,124
+        ///10378,4520,100,3,27,123
+        ///11306,6842,100,3,18,121
+        ///12732.615,7514.075,100,3,16,118
+        ///11746,7628,100,3,12,117
+        ///11254,7204,100,3,27,116
+        ///11507.211,9549.922,100,3,18,116
+        ///5002.0645,10973.619,100,3,10,113
+        ///5240,10160,100,3,80,113
+        ///12724,2786,100,3,21,108
+        ///11056.25,6157.7734,100,3,102,107
+        ///10774,4518,100,3,24,107
+        ///12458,7272,100,3,15,10 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///6952,4724,100,3,12,147
+        ///4640,9586,100,3,10,141
+        ///8570,5528,100,3,7,131
+        ///10460,5190,100,3,21,130
+        ///10784,4652,100,3,8,123
+        ///4884,10032,100,3,44,122
+        ///7377.015,10755.267,100,3,6,118
+        ///12732.615,7514.075,100,3,16,118
+        ///11575.547,9533.926,100,3,8,117
+        ///11254,7204,100,3,27,116
+        ///10368,4862,100,3,40,115
+        ///5088,10934,100,3,24,113
+        ///9562,9156,100,3,21,110
+        ///5457.339,11143.912,100,3,66,109
+        ///9096,8784,100,3,11,108
+        ///6668,11696,100,3,6,107
+        ///10970.987,11208.397,100,3,18,106
+        ///4458.882,10457.014, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4176,10266,100,3,28,172
+        ///4218,9474,100,3,52,144
+        ///4927.327,10927.279,100,3,14,138
+        ///11139.781,8141.418,100,3,33,136
+        ///8570,5528,100,3,7,131
+        ///11260,4420,100,3,7,128
+        ///7680,5674,100,3,26,126
+        ///6936,9556,100,3,8,123
+        ///12732.615,7514.075,100,3,16,118
+        ///11254,7204,100,3,27,116
+        ///12022,5394,100,3,18,115
+        ///4536,9734,100,3,17,111
+        ///4469.4844,10404.515,100,3,34,109
+        ///12724,2786,100,3,21,108
+        ///11019.484,6558.5293,100,3,34,106
+        ///10896,11222,100,3,18,106
+        ///7175.3643,3207.5972,100,3,32,102
+        ///9050,9208,100,3,8,102
+        ///10812.5 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4228,10276,100,3,7,172
+        ///8031.7188,5927.052,100,3,7,166
+        ///7448,7612,100,3,6,147
+        ///6952,4724,100,3,12,147
+        ///4218,9474,100,3,52,144
+        ///10366,5284,100,3,20,135
+        ///5342,10144,100,3,9,131
+        ///11674.426,6507.453,100,3,29,126
+        ///4456,9916,100,3,57,125
+        ///8968,5454,100,3,8,124
+        ///11519.379,9545.578,100,3,7,123
+        ///7420.535,5219.2793,100,3,6,122
+        ///5016.0786,10969.401,100,3,10,113
+        ///13124,9268,100,3,6,113
+        ///9036,8656,100,3,18,110
+        ///11069.93,6152.9043,100,3,51,107
+        ///6678,11692,100,3,12,107
+        ///8476,5928,100,3,6,106
+        ///2758,7454,100,3, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///9684,9302,100,3,12,179
+        ///4878.081,9949.17,100,3,17,157
+        ///4927.327,10927.279,100,3,14,138
+        ///3812,10258,100,3,6,129
+        ///10426,5156,100,3,21,126
+        ///4564,9638,100,3,11,125
+        ///6894,4656,100,3,15,124
+        ///9878,5082,100,3,15,117
+        ///7609.0537,5645.703,100,3,45,114
+        ///9096,8784,100,3,11,108
+        ///6678,11692,100,3,12,107
+        ///8590,5602,100,3,12,106
+        ///10128.516,12407.9,100,3,40,105
+        ///5490,11146,100,3,25,104
+        ///10328,4746,100,3,70,103
+        ///4518,10428,100,3,39,102
+        ///10046,9878,100,3,10,93
+        ///5802,10260,100,3,26,92
+        ///11010.792,6458.461,100,3,90,9 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4634,9700,100,3,7,239
+        ///9674,9342,100,3,6,179
+        ///4216,9568,100,3,28,130
+        ///7233.7344,10635.608,100,3,12,124
+        ///9878,5082,100,3,15,117
+        ///11507.211,9549.922,100,3,18,116
+        ///10368,4862,100,3,40,115
+        ///8675.391,11057.547,100,3,24,114
+        ///2848,7422,100,3,24,114
+        ///5000.1357,10975.021,100,3,10,113
+        ///10320,4324,100,3,45,109
+        ///10460,5162,100,3,24,108
+        ///10128.516,12407.9,100,3,40,105
+        ///12160,9376,100,3,8,104
+        ///4631.385,10491.991,100,3,22,103
+        ///9050,9208,100,3,8,102
+        ///4398,9934,100,3,13,101
+        ///7102,10054,100,3,19,99
+        ///11356,6552,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,3,9,214
+        ///4176,10266,100,3,28,172
+        ///4526,10186,100,3,12,171
+        ///7448,7612,100,3,6,147
+        ///11088,5636,100,3,8,142
+        ///11139.781,8141.418,100,3,33,136
+        ///4216,9568,100,3,28,130
+        ///9508,9202,100,3,16,126
+        ///5064,12134,100,3,15,123
+        ///10378,4520,100,3,27,123
+        ///7423.7783,5213.7837,100,3,6,122
+        ///5288,10162,100,3,30,121
+        ///12732.615,7514.075,100,3,16,118
+        ///7377.015,10755.267,100,3,6,118
+        ///3464,8190,100,3,6,115
+        ///2848,7422,100,3,24,114
+        ///13124,9268,100,3,6,113
+        ///5002.0645,10973.619,100,3,10,113
+        ///4826,9802,100,3,6,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_All_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_All_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///2988,8936,100,2,12,146
+        ///7872.7065,9297.594,100,2,14,115
+        ///5014,10076,100,2,32,101
+        ///5950,10640,100,2,16,93
+        ///13102,2068,100,2,6,92
+        ///11806,5924,100,2,45,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///9878,4844,100,2,6,81
+        ///9080,1994,100,2,6,73
+        ///11532,7114,100,2,68,69
+        ///9492,4466,100,2,14,69
+        ///9974,6596,100,2,42,68
+        ///9386,5678,100,2,59,66
+        ///4758.3623,10324.477,100,2,13,63
+        ///5008,8480,100,2,84,62
+        ///5646,3558,100,2,10,59
+        ///9736,6328,100,2,18,58
+        ///10350,3120,100,2,26,57
+        ///6876,11390,100,2,34,56
+        ///4730,10 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11900,5676,100,2,36,117
+        ///8300.73,11635.043,100,2,6,107
+        ///5174.1543,10009.316,100,2,51,106
+        ///7786,9486,100,2,18,101
+        ///13438,2406,100,2,14,101
+        ///9542,4708,100,2,6,97
+        ///13102,2068,100,2,6,92
+        ///11724,5932,100,2,26,85
+        ///9878,5082,100,2,9,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///11422,7118,100,2,217,78
+        ///6670,3168,100,2,10,77
+        ///5006,8570,100,2,64,74
+        ///7286,14114,100,2,12,72
+        ///4719.443,10487.404,100,2,17,68
+        ///9512,5718,100,2,48,64
+        ///6297.886,10307.392,100,2,126,62
+        ///7940,11800,100,2,100,61
+        ///4528,116 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4896,9982,100,2,26,155
+        ///5198,9998,100,2,30,96
+        ///5262,10358,100,2,9,96
+        ///13102,2068,100,2,6,92
+        ///9164.145,3297.3848,100,2,9,82
+        ///9794,3946,100,2,24,76
+        ///9476,5628,100,2,66,75
+        ///9080,1994,100,2,6,73
+        ///11822,5742,100,2,11,73
+        ///7286,14114,100,2,12,72
+        ///4708,10450,100,2,15,66
+        ///6832,3100,100,2,32,63
+        ///5008,8480,100,2,84,62
+        ///8352,6266,100,2,16,61
+        ///8558,4838,100,2,70,60
+        ///8182,11812,100,2,7,59
+        ///9317.865,11507.777,100,2,9,58
+        ///11254,7204,100,2,12,57
+        ///4288,9952,100,2,8,57
+        ///6184,10212,100,2,72,55
+        ///9812,6490,100,2,59,54 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11410,6484,100,2,8,172
+        ///8300.73,11635.043,100,2,6,107
+        ///5237.7876,10002.558,100,2,45,96
+        ///13102,2068,100,2,6,92
+        ///13542,2486,100,2,12,91
+        ///11778,5888,100,2,42,89
+        ///12610,4974,100,2,6,88
+        ///9164.145,3297.3848,100,2,9,82
+        ///4631.385,10491.991,100,2,11,72
+        ///11566,7198,100,2,38,71
+        ///9492,4466,100,2,14,69
+        ///8066,3448,100,2,57,69
+        ///4878.284,9950.387,100,2,14,67
+        ///9392,5690,100,2,62,66
+        ///3046,9060,100,2,38,63
+        ///7946,11780,100,2,21,62
+        ///5008,8480,100,2,84,62
+        ///4528,11648,100,2,7,61
+        ///8696,4694,100,2,6,61
+        ///6914,11424,100,2 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7774.791,9302.742,100,2,15,137
+        ///8284,6238,100,2,9,97
+        ///11848,5902,100,2,40,89
+        ///8742,6598,100,2,6,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///4938,9750,100,2,9,81
+        ///8054,6452,100,2,8,79
+        ///4496,11740,100,2,34,78
+        ///8230,11698,100,2,8,72
+        ///7286,14114,100,2,12,72
+        ///9428,5632,100,2,130,71
+        ///6164,10484,100,2,9,70
+        ///9492,4466,100,2,14,69
+        ///4708,10488,100,2,17,68
+        ///9974,6596,100,2,42,68
+        ///6924.7256,11358.049,100,2,180,67
+        ///11590,7080,100,2,196,67
+        ///4988,10170,100,2,81,66
+        ///6452,8364,100,2,46,61
+        ///7925.4883 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11410,6484,100,2,8,172
+        ///4981.6045,9990.21,100,2,16,142
+        ///5262,10358,100,2,9,96
+        ///5950,10640,100,2,16,93
+        ///13494,2478,100,2,16,89
+        ///9878,5082,100,2,9,85
+        ///8742,6598,100,2,6,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///11754,5828,100,2,36,77
+        ///6236.1953,10503.465,100,2,8,76
+        ///8230,11698,100,2,8,72
+        ///7286,14114,100,2,12,72
+        ///4496,11806,100,2,19,71
+        ///9422,5630,100,2,65,70
+        ///4719.443,10487.404,100,2,17,68
+        ///6918,11348,100,2,87,67
+        ///12512,5040,100,2,8,67
+        ///11612,7118,100,2,51,62
+        ///5008,8480,100,2,84,62
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7872.7065,9297.594,100,2,14,115
+        ///4826,9802,100,2,6,112
+        ///9734,4740,100,2,16,96
+        ///11824,5916,100,2,287,95
+        ///7858,11740,100,2,7,86
+        ///4964,10112,100,2,31,84
+        ///9164.145,3297.3848,100,2,9,82
+        ///6236.1953,10503.465,100,2,8,76
+        ///9080,1994,100,2,6,73
+        ///11544,7172,100,2,52,72
+        ///4719.443,10487.404,100,2,17,68
+        ///9386,5678,100,2,59,66
+        ///9924,6586,100,2,43,62
+        ///8182,11812,100,2,7,59
+        ///9736,6328,100,2,18,58
+        ///5082,8494,100,2,18,58
+        ///4288,9952,100,2,8,57
+        ///5720,3502,100,2,12,57
+        ///10370,3144,100,2,23,55
+        ///4976,10768,100,2,30,54
+        ///8 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4826,9802,100,2,6,112
+        ///8300.73,11635.043,100,2,6,107
+        ///7864,9516,100,2,6,101
+        ///5014,10076,100,2,32,101
+        ///13438,2406,100,2,14,101
+        ///5950,10640,100,2,16,93
+        ///8172.3545,10103.412,100,2,9,90
+        ///9878,5082,100,2,9,85
+        ///6682,8752,100,2,36,85
+        ///11762,5856,100,2,41,84
+        ///9164.145,3297.3848,100,2,9,82
+        ///7984,6518,100,2,8,79
+        ///6236.1953,10503.465,100,2,8,76
+        ///4708,10450,100,2,15,66
+        ///9508,5724,100,2,47,63
+        ///8044,11876,100,2,9,61
+        ///6916,11380,100,2,72,60
+        ///10350,3120,100,2,26,57
+        ///5680,3532,100,2,20,57
+        ///10054,7824,100,2,252,5 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5076.246,10000.299,100,2,19,148
+        ///11760,6032,100,2,9,123
+        ///9760,3968,100,2,8,101
+        ///5280,10346,100,2,9,96
+        ///9706,4674,100,2,34,96
+        ///7800,9578,100,2,7,92
+        ///9878,5082,100,2,9,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///9462,5570,100,2,33,76
+        ///11570,7204,100,2,29,76
+        ///4984,8520,100,2,34,74
+        ///8150,3398,100,2,11,74
+        ///4488,11786,100,2,19,74
+        ///4830,10190,100,2,23,71
+        ///6164,10484,100,2,9,70
+        ///10278,3130,100,2,18,60
+        ///8560,4842,100,2,35,60
+        ///9986,7708,100,2,210,57
+        ///9904,6536,100,2,68,57
+        ///8144,11778,100,2,11,57
+        ///10192,4290,100,2,8 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11410,6484,100,2,8,172
+        ///7872.7065,9297.594,100,2,14,115
+        ///4914,10084,100,2,40,110
+        ///5088,10934,100,2,6,108
+        ///8300.73,11635.043,100,2,6,107
+        ///5280,10346,100,2,9,96
+        ///5237.7876,10002.558,100,2,45,96
+        ///9878,5082,100,2,9,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///8216,10086,100,2,11,81
+        ///11914,5882,100,2,34,79
+        ///11426,7070,100,2,32,77
+        ///6164,10484,100,2,9,70
+        ///9470,5682,100,2,76,68
+        ///11981.564,3855.4639,100,2,14,67
+        ///4708,10450,100,2,15,66
+        ///8520,4806,100,2,114,64
+        ///7950,11820,100,2,20,61
+        ///9336,114 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5006,10020,100,2,45,146
+        ///2988,8936,100,2,12,146
+        ///8300.73,11635.043,100,2,6,107
+        ///5278.4453,10349.777,100,2,9,96
+        ///11778,5888,100,2,42,89
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///7286,14114,100,2,12,72
+        ///9374,5642,100,2,49,66
+        ///6832,3100,100,2,32,63
+        ///8492,4854,100,2,33,61
+        ///6254,10258,100,2,148,61
+        ///6904,11398,100,2,140,61
+        ///10442,3132,100,2,19,60
+        ///4452,11788,100,2,24,60
+        ///10520.465,3665.8906,100,2,16,60
+        ///5026.0117,8403.695,100,2,69,59
+        ///7974,11820,100,2,17,58
+        ///4728,10360,100,2,14,54
+        ///9654,6 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11760,6032,100,2,9,123
+        ///7872.7065,9297.594,100,2,14,115
+        ///9760,3968,100,2,8,101
+        ///5278.4453,10349.777,100,2,9,96
+        ///13542,2486,100,2,12,91
+        ///9164.145,3297.3848,100,2,9,82
+        ///3048,9010,100,2,17,78
+        ///11462,7080,100,2,40,76
+        ///4842,10178,100,2,40,74
+        ///9466,5658,100,2,83,68
+        ///11981.564,3855.4639,100,2,14,67
+        ///7126,3174,100,2,11,63
+        ///9924,6586,100,2,43,62
+        ///5008,8480,100,2,84,62
+        ///8090,11756,100,2,11,62
+        ///6706.6255,4914.9155,100,2,6,62
+        ///10520.465,3665.8906,100,2,16,60
+        ///6214,10230,100,2,138,58
+        ///8080,3520,100,2,18,58
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7872.7065,9297.594,100,2,14,115
+        ///13438,2406,100,2,14,101
+        ///5198,9998,100,2,30,96
+        ///5280,10346,100,2,9,96
+        ///11824,5916,100,2,287,95
+        ///10188.165,4855.8936,100,2,8,89
+        ///8742,6598,100,2,6,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///9678,4668,100,2,10,79
+        ///6670,3168,100,2,10,77
+        ///8230,11698,100,2,8,72
+        ///4642,10436,100,2,13,69
+        ///9466,5658,100,2,83,68
+        ///11580,7142,100,2,270,68
+        ///8114,3446,100,2,17,63
+        ///6297.886,10307.392,100,2,126,62
+        ///5196,9278,100,2,12,61
+        ///12570,5076,100,2,15,61
+        ///8592,4804,100,2,33, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11410,6484,100,2,8,172
+        ///5076.246,10000.299,100,2,19,148
+        ///7782,9486,100,2,6,101
+        ///5280,10346,100,2,9,96
+        ///5950,10640,100,2,16,93
+        ///13494,2478,100,2,16,89
+        ///9878,5082,100,2,9,85
+        ///8742,6598,100,2,6,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///11462,7080,100,2,40,76
+        ///7286,14114,100,2,12,72
+        ///4748,10318,100,2,13,69
+        ///5000,8448,100,2,27,68
+        ///4478,11744,100,2,34,67
+        ///8512,4804,100,2,38,64
+        ///9512,5718,100,2,48,64
+        ///3046,9060,100,2,38,63
+        ///6291.5464,10313.223,100,2,42,62
+        ///6438,10048,100,2,18,61
+        ///8156,34 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11980,9144,100,2,9,159
+        ///8300.73,11635.043,100,2,6,107
+        ///7800,9578,100,2,7,92
+        ///6682,8752,100,2,36,85
+        ///11882,5884,100,2,34,84
+        ///6718,3088,100,2,6,84
+        ///9164.145,3297.3848,100,2,9,82
+        ///9878,4844,100,2,6,81
+        ///4886,10184,100,2,25,77
+        ///4980,8524,100,2,17,74
+        ///11474,7114,100,2,118,73
+        ///7286,14114,100,2,12,72
+        ///9400,5678,100,2,61,70
+        ///4708,10484,100,2,13,69
+        ///8428,4830,100,2,20,60
+        ///10520.465,3665.8906,100,2,16,60
+        ///4452,11788,100,2,24,60
+        ///6916,11380,100,2,72,60
+        ///7974,11820,100,2,17,58
+        ///5674.8486,3501.147,100,2,20,57 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11900,5676,100,2,36,117
+        ///8300.73,11635.043,100,2,6,107
+        ///2992,9004,100,2,18,103
+        ///5950,10640,100,2,16,93
+        ///10192,4620,100,2,8,93
+        ///11724,5932,100,2,26,85
+        ///9878,5082,100,2,9,85
+        ///6682,8752,100,2,36,85
+        ///9164.145,3297.3848,100,2,9,82
+        ///13450,2488,100,2,18,80
+        ///4952,10146,100,2,62,78
+        ///9794,3946,100,2,24,76
+        ///5002,8544,100,2,18,74
+        ///7286,14114,100,2,12,72
+        ///9424,5654,100,2,148,68
+        ///4478,11744,100,2,34,67
+        ///4708,10450,100,2,15,66
+        ///9925.133,6608.255,100,2,37,63
+        ///6706.6255,4914.9155,100,2,6,62
+        ///8352,6266,100,2,16,6 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Blue_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Blue_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10808,4472,100,0,7,122
+        ///8856,4032,100,0,6,122
+        ///10300,4906,100,0,10,110
+        ///4924,10166,100,0,88,102
+        ///10894,4802,100,0,15,100
+        ///4624,10424,100,0,40,92
+        ///12650,5406,100,0,7,92
+        ///12324,5196,100,0,120,90
+        ///9322,11470,100,0,27,87
+        ///1662,12784,100,0,6,87
+        ///3568,8296,100,0,16,86
+        ///9880,6568,100,0,74,85
+        ///5910,12826,100,0,12,84
+        ///8096,11834,100,0,26,79
+        ///11608,7090,100,0,1184,78
+        ///5292,10374,100,0,11,78
+        ///10342,3232,100,0,115,78
+        ///9690,6304,100,0,124,78
+        ///7040,5126,100,0,6,77
+        ///11710,5844,100,0,468,77
+        ///5156,9086,100,0,231, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///10416,5236,100,0,18,194
+        ///5064,12134,100,0,12,140
+        ///7056,10090,100,0,6,123
+        ///10378,4520,100,0,19,115
+        ///6690,3136,100,0,6,108
+        ///4710,10434,100,0,32,107
+        ///2722,7198,100,0,9,95
+        ///9322,11478,100,0,81,87
+        ///3568,8296,100,0,16,86
+        ///10960,4356,100,0,45,85
+        ///9912,6538,100,0,79,84
+        ///11506,7088,100,0,236,84
+        ///12170,9690,100,0,6,83
+        ///5210,9194,100,0,1032,82
+        ///9356.531,4660.5576,100,0,12,82
+        ///4612,11950,100,0,7,81
+        ///5054,10038,100,0,37,79
+        ///12384,5142,100,0,29,79
+        ///11228,8284,100,0,9,79
+        ///9690,6304,100,0, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///11020,8560,100,0,9,159
+        ///10772,4516,100,0,36,142
+        ///8856,4032,100,0,6,122
+        ///10378,4520,100,0,19,115
+        ///6686,3056,100,0,6,108
+        ///4590,9960,100,0,10,100
+        ///4984,10170,100,0,58,98
+        ///2722,7198,100,0,9,95
+        ///9958,6582,100,0,52,91
+        ///7924.5767,11751.303,100,0,192,86
+        ///3568,8296,100,0,16,86
+        ///1582,13028,100,0,9,85
+        ///5910,12826,100,0,12,84
+        ///5224,9176,100,0,379,83
+        ///4570,10340,100,0,48,82
+        ///9344,11578,100,0,28,82
+        ///4576,12006,100,0,8,82
+        ///6980,11366,100,0,36,81
+        ///11572,7122,100,0,672,79
+        ///11228,8284,100,0, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///6508,10070,100,0,30,102
+        ///4768,10150,100,0,246,96
+        ///10362,4430,100,0,72,96
+        ///9974,6596,100,0,46,93
+        ///8027.112,11740.837,100,0,21,88
+        ///12314,5168,100,0,32,88
+        ///3568,8296,100,0,16,86
+        ///1582,13028,100,0,9,85
+        ///10936,4332,100,0,16,84
+        ///10648,4592,100,0,13,82
+        ///4576,12006,100,0,8,82
+        ///4486,10390,100,0,20,80
+        ///11600,7100,100,0,151,79
+        ///8184,4828,100,0,7,78
+        ///5302,10410,100,0,27,77
+        ///7040,5126,100,0,6,77
+        ///9236,11410,100,0,12,76
+        ///11730,5878,100,0,416,75
+        ///2090,13518,100,0,16,75
+        ///11713.836,9217.883,100,0,6,75
+        ///9422,5682, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///10416,5236,100,0,18,194
+        ///11020,8560,100,0,9,159
+        ///4686,10420,100,0,19,101
+        ///10868,4868,100,0,10,100
+        ///2722,7198,100,0,9,95
+        ///12320,5182,100,0,32,88
+        ///6644,10050,100,0,16,86
+        ///9936,6524,100,0,75,86
+        ///3568,8296,100,0,16,86
+        ///5604,12680,100,0,14,85
+        ///10960,4356,100,0,45,85
+        ///7832,11786,100,0,146,84
+        ///5910,12826,100,0,12,84
+        ///9918,4846,100,0,16,83
+        ///9372,11574,100,0,7,82
+        ///4570,11988,100,0,8,82
+        ///10640,4662,100,0,14,81
+        ///11642,7036,100,0,188,80
+        ///5246,9108,100,0,1209,79
+        ///9406,4256,100,0,26,79
+        ///1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5064,12134,100,0,12,140
+        ///7056,10090,100,0,6,123
+        ///4694,10170,100,0,31,110
+        ///6686,3056,100,0,6,108
+        ///10018,6632,100,0,21,95
+        ///4526,10432,100,0,12,94
+        ///8036,11792,100,0,92,92
+        ///5000,10116,100,0,98,90
+        ///12314,5168,100,0,32,88
+        ///1662,12784,100,0,6,87
+        ///3568,8296,100,0,16,86
+        ///10668,4594,100,0,39,82
+        ///4570,11988,100,0,8,82
+        ///10859.824,4353.994,100,0,12,80
+        ///10418,4328,100,0,16,79
+        ///5208,9102,100,0,760,78
+        ///11608,7092,100,0,444,78
+        ///5292,10374,100,0,11,78
+        ///6830,11494,100,0,19,75
+        ///11713.836,9217.883,100,0,6,75
+        ///10319.1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7056,10090,100,0,6,123
+        ///8856,4032,100,0,6,122
+        ///10688,4626,100,0,26,110
+        ///4710,10436,100,0,48,107
+        ///5448,12560,100,0,14,102
+        ///2722,7198,100,0,9,95
+        ///4818,10114,100,0,84,91
+        ///3052.1836,8841.863,100,0,16,89
+        ///1662,12784,100,0,6,87
+        ///3568,8296,100,0,16,86
+        ///10964,4358,100,0,15,85
+        ///9308,11388,100,0,28,83
+        ///5352,9142,100,0,111,82
+        ///7860,11844,100,0,43,81
+        ///10418,4328,100,0,16,79
+        ///6988,11320,100,0,102,79
+        ///8166,11812,100,0,80,78
+        ///9870,6524,100,0,160,78
+        ///11556,7138,100,0,174,78
+        ///13450,2430,100,0,15,78
+        ///11713.836,921 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///5064,12134,100,0,12,140
+        ///7056,10090,100,0,6,123
+        ///10684,4586,100,0,30,100
+        ///10868,4868,100,0,10,100
+        ///1434.7688,13386.709,100,0,6,95
+        ///2722,7198,100,0,9,95
+        ///3568,8296,100,0,16,86
+        ///4448,9932,100,0,24,85
+        ///9400,11594,100,0,7,82
+        ///8450,6520,100,0,76,81
+        ///4768,10266,100,0,60,80
+        ///11474,7170,100,0,66,80
+        ///9719.483,4931.9434,100,0,14,79
+        ///7042,11364,100,0,66,79
+        ///11228,8284,100,0,9,79
+        ///8184,4828,100,0,7,78
+        ///9860,6474,100,0,152,77
+        ///7040,5126,100,0,6,77
+        ///7890,11862,100,0,46,76
+        ///5136,9124,100, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///5064,12134,100,0,12,140
+        ///10206,4340,100,0,18,130
+        ///10288,4950,100,0,16,123
+        ///7056,10090,100,0,6,123
+        ///8856,4032,100,0,6,122
+        ///10894,4802,100,0,15,100
+        ///1434.7688,13386.709,100,0,6,95
+        ///12650,5406,100,0,7,92
+        ///4624,10424,100,0,40,92
+        ///8036,11792,100,0,92,92
+        ///9390,11432,100,0,104,87
+        ///6496,9994,100,0,14,86
+        ///3568,8296,100,0,16,86
+        ///5910,12826,100,0,12,84
+        ///10907.936,4310.6226,100,0,64,84
+        ///12180,9692,100,0,24,83
+        ///5598,12684,100,0,16,81
+        ///12376,5198,100,0,39,80
+        ///5032,10128,100,0,126,79
+        ///118 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///5064,12134,100,0,12,140
+        ///10288,4950,100,0,16,123
+        ///7056,10090,100,0,6,123
+        ///10688,4626,100,0,26,110
+        ///4862,10156,100,0,252,95
+        ///9992,6568,100,0,135,93
+        ///6644,10050,100,0,16,86
+        ///3568,8296,100,0,16,86
+        ///10960,4356,100,0,45,85
+        ///1582,13028,100,0,9,85
+        ///9308,11388,100,0,28,83
+        ///6980,11410,100,0,41,83
+        ///7796,11858,100,0,64,81
+        ///4486,10390,100,0,20,80
+        ///8096,11834,100,0,26,79
+        ///11228,8284,100,0,9,79
+        ///8184,4828,100,0,7,78
+        ///12452,5198,100,0,34,75
+        ///2090,13518,100,0,16,75
+        ///10319.164,3272.0596,100 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///5064,12134,100,0,12,140
+        ///7056,10090,100,0,6,123
+        ///10894,4802,100,0,15,100
+        ///10346,4400,100,0,63,98
+        ///4906,10170,100,0,100,98
+        ///2722,7198,100,0,9,95
+        ///7830,11834,100,0,120,89
+        ///6240.8433,10348.627,100,0,28,88
+        ///9322,11470,100,0,27,87
+        ///3568,8296,100,0,16,86
+        ///1582,13028,100,0,9,85
+        ///12170,9690,100,0,6,83
+        ///5198,9134,100,0,397,81
+        ///6992,11362,100,0,36,81
+        ///11848,5798,100,0,232,80
+        ///11528,7104,100,0,314,79
+        ///11228,8284,100,0,9,79
+        ///9824.394,6507.785,100,0,288,78
+        ///9414,4140,100,0,29,77
+        ///7040,5 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///11020,8560,100,0,9,159
+        ///8856,4032,100,0,6,122
+        ///6692,3092,100,0,18,108
+        ///12252.729,5218.47,100,0,17,104
+        ///10322,4438,100,0,63,97
+        ///4792,10234,100,0,107,95
+        ///2722,7198,100,0,9,95
+        ///1434.7688,13386.709,100,0,6,95
+        ///4526,10432,100,0,12,94
+        ///6626,10042,100,0,9,93
+        ///9904,6578,100,0,67,88
+        ///7872,11826,100,0,290,87
+        ///9380,11454,100,0,52,87
+        ///3568,8296,100,0,16,86
+        ///10869.932,4353.4424,100,0,16,84
+        ///5897.4,12869.553,100,0,12,84
+        ///4977.885,9998.402,100,0,76,83
+        ///11738,5778,100,0,42,82
+        ///5260,9136,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5064,12134,100,0,12,140
+        ///10717.014,4459.7197,100,0,7,122
+        ///12266,5244,100,0,20,103
+        ///4808,10180,100,0,118,95
+        ///2722,7198,100,0,9,95
+        ///9922,6606,100,0,53,93
+        ///9288,11392,100,0,22,93
+        ///1662,12784,100,0,6,87
+        ///3568,8296,100,0,16,86
+        ///12180,9692,100,0,24,83
+        ///11544,7176,100,0,108,81
+        ///5214,9126,100,0,402,80
+        ///9414,4182,100,0,33,79
+        ///11228,8284,100,0,9,79
+        ///5292,10374,100,0,11,78
+        ///10074,7796,100,0,95,77
+        ///6830,11484,100,0,20,77
+        ///5229.5713,9997.588,100,0,15,77
+        ///9676,6344,100,0,164,77
+        ///7040,5126,100,0,6,77
+        ///4368,9894 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4216,9568,100,0,6,195
+        ///5064,12134,100,0,12,140
+        ///10808,4472,100,0,7,122
+        ///8856,4032,100,0,6,122
+        ///12252.729,5218.47,100,0,17,104
+        ///10332,4440,100,0,22,99
+        ///11756,5734,100,0,23,97
+        ///4798,10160,100,0,112,95
+        ///1434.7688,13386.709,100,0,6,95
+        ///9374.588,4257.7295,100,0,22,91
+        ///1662,12784,100,0,6,87
+        ///6496,9994,100,0,14,86
+        ///3568,8296,100,0,16,86
+        ///4448,9938,100,0,8,85
+        ///5910,12826,100,0,12,84
+        ///9308,11388,100,0,28,83
+        ///7784,11774,100,0,51,83
+        ///5198,9168,100,0,385,80
+        ///11474,7170,100,0,66,80
+        ///11228,8284,100,0,9,79
+        ///986 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10416,5236,100,0,18,194
+        ///10808,4472,100,0,7,122
+        ///10300,4906,100,0,10,110
+        ///12252.729,5218.47,100,0,17,104
+        ///4862,10204,100,0,111,96
+        ///1434.7688,13386.709,100,0,6,95
+        ///9976,6592,100,0,46,93
+        ///5200,10058,100,0,156,88
+        ///1662,12784,100,0,6,87
+        ///8282,4842,100,0,10,86
+        ///3568,8296,100,0,16,86
+        ///4448,9932,100,0,24,85
+        ///7832,11786,100,0,146,84
+        ///6970,11392,100,0,41,83
+        ///12170,9690,100,0,6,83
+        ///5290,9110,100,0,315,82
+        ///9372,11574,100,0,7,82
+        ///11650,5674,100,0,18,81
+        ///11568,7200,100,0,74,79
+        ///11228,8284,100,0,9,79
+        ///9719.483 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5064,12134,100,0,12,140
+        ///4722,10504,100,0,8,132
+        ///7056,10090,100,0,6,123
+        ///6692,3092,100,0,18,108
+        ///2722,7198,100,0,9,95
+        ///12622,5382,100,0,14,92
+        ///10660,4654,100,0,22,91
+        ///4648,10152,100,0,45,88
+        ///12332,5188,100,0,32,88
+        ///9380,11454,100,0,52,87
+        ///3568,8296,100,0,16,86
+        ///10960,4356,100,0,45,85
+        ///11842,5794,100,0,440,81
+        ///5216,9164,100,0,1552,81
+        ///11586,7114,100,0,468,80
+        ///5192,10042,100,0,32,80
+        ///7768,11824,100,0,41,79
+        ///8096,11834,100,0,26,79
+        ///6988,11320,100,0,102,79
+        ///9896,6528,100,0,168,77
+        ///9658,6322,100,0,186 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Control_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Control_9_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///8023.157,5912.6973,100,1,6,191
+        ///4176,10266,100,1,28,172
+        ///4732,9968,100,1,19,163
+        ///8968,5454,100,1,6,147
+        ///11139.781,8141.418,100,1,33,136
+        ///7559.9785,5690.0625,100,1,16,135
+        ///7175.3643,3207.5972,100,1,16,127
+        ///4400,9962,100,1,6,119
+        ///11507.211,9549.922,100,1,18,116
+        ///10610,5246,100,1,10,111
+        ///9562,9156,100,1,21,110
+        ///9096,8784,100,1,11,108
+        ///10334,5126,100,1,33,108
+        ///9320.305,11610.303,100,1,20,103
+        ///10328,4746,100,1,64,102
+        ///2962,5026,100,1,8,100
+        ///11212,4482,100,1,34,100
+        ///11784,6604,100,1,194,99
+        ///10673.377 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_12_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_12_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///10810,5336,100,1,10,183
+        ///4704,9970,100,1,54,157
+        ///5010,10894,100,1,8,155
+        ///8968,5454,100,1,6,147
+        ///10566.393,4344.133,100,1,15,135
+        ///7472.2656,5225.993,100,1,12,131
+        ///7229.578,10652.449,100,1,48,124
+        ///6894,4656,100,1,15,124
+        ///2818,7372,100,1,6,124
+        ///11524.482,9559.122,100,1,7,123
+        ///11306,6842,100,1,18,121
+        ///12732.615,7514.075,100,1,16,118
+        ///5846,10920,100,1,6,117
+        ///4498,10530,100,1,17,115
+        ///10360,4644,100,1,14,114
+        ///11316,7194,100,1,57,112
+        ///11063.203,6148.5195,100,1,51,107
+        ///6678,11692,100,1,12,107
+        ///10070,477 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_12_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_12_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5328,10822,100,1,9,244
+        ///4786,10198,100,1,28,163
+        ///5010,10894,100,1,8,155
+        ///4554,9710,100,1,48,149
+        ///7448,7612,100,1,6,147
+        ///7228.0605,10652.148,100,1,36,124
+        ///6936,9556,100,1,8,123
+        ///4452.875,10394.065,100,1,81,119
+        ///11507.211,9549.922,100,1,18,116
+        ///5242.5713,10005.034,100,1,44,114
+        ///11316,7194,100,1,57,112
+        ///3604,9780,100,1,14,109
+        ///6757.115,5232.7246,100,1,6,109
+        ///10426,5156,100,1,13,108
+        ///10445.953,4245.029,100,1,44,104
+        ///11036,8220,100,1,22,104
+        ///10128.516,12407.9,100,1,35,104
+        ///3777.6143,8558.069,100,1, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_12_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_12_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,1,9,214
+        ///8024.324,5912.7485,100,1,6,191
+        ///4228,10276,100,1,7,172
+        ///7601.964,5641.5166,100,1,10,155
+        ///6952,4724,100,1,12,147
+        ///8968,5454,100,1,6,147
+        ///10566.393,4344.133,100,1,15,135
+        ///2818,7372,100,1,6,124
+        ///11575.547,9533.926,100,1,7,123
+        ///5019.552,9991.049,100,1,108,116
+        ///4552,9880,100,1,20,114
+        ///4556,10378,100,1,36,113
+        ///5754,10902,100,1,30,111
+        ///12724,2786,100,1,21,108
+        ///6668,11696,100,1,6,107
+        ///11075.567,6158.389,100,1,51,107
+        ///5073.838,10960.496,100,1,7,102
+        ///10686,4624,100,1,27,101
+        ///7972. [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_12_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_12_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5424.248,10775.918,100,1,6,215
+        ///4228,10276,100,1,7,172
+        ///4822,10176,100,1,32,162
+        ///7562,5694,100,1,8,135
+        ///6894,4656,100,1,15,124
+        ///11746,7628,100,1,12,117
+        ///4556,10378,100,1,36,113
+        ///9540,9166,100,1,14,110
+        ///5248,10084,100,1,19,108
+        ///6678,11692,100,1,12,107
+        ///8476,5928,100,1,6,106
+        ///10070,4774,100,1,39,105
+        ///5560,11122,100,1,78,104
+        ///12458,7272,100,1,12,104
+        ///10099.797,12406.102,100,1,7,104
+        ///3777.6143,8558.069,100,1,6,104
+        ///10454,4880,100,1,27,100
+        ///7173.92,10639.123,100,1,22,98
+        ///9956.473,8460.027,100,1,7,97 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_3_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_3_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,1,9,214
+        ///8024.324,5912.7485,100,1,6,191
+        ///4690,10000,100,1,18,157
+        ///7609.0537,5645.703,100,1,30,155
+        ///10208,4840,100,1,23,141
+        ///9408,11622,100,1,10,125
+        ///7279.6484,10690.15,100,1,9,123
+        ///12732.615,7514.075,100,1,16,118
+        ///5020.2397,9990.114,100,1,81,116
+        ///13124,9268,100,1,6,113
+        ///4469.4844,10404.515,100,1,29,113
+        ///5464.707,11160.225,100,1,22,109
+        ///6757.115,5232.7246,100,1,6,109
+        ///11060.117,6147.625,100,1,51,107
+        ///5073.838,10960.496,100,1,7,102
+        ///10426,4270,100,1,162,98
+        ///10673.377,9214.052,100 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_3_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_3_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5424.248,10775.918,100,1,6,215
+        ///8031.7188,5927.052,100,1,6,191
+        ///4822,10176,100,1,32,162
+        ///7601.964,5641.5166,100,1,10,155
+        ///5010,10894,100,1,8,155
+        ///11523.887,9557.67,100,1,14,123
+        ///12630,9440,100,1,10,122
+        ///5536,11194,100,1,51,118
+        ///12732.615,7514.075,100,1,16,118
+        ///11722,6740,100,1,42,117
+        ///11746,7628,100,1,12,117
+        ///10832,5412,100,1,8,113
+        ///4556,10378,100,1,36,113
+        ///7528.3066,5220.6133,100,1,15,113
+        ///13124,9268,100,1,6,113
+        ///4532,9762,100,1,18,110
+        ///10334,5126,100,1,33,108
+        ///6668,11696,100,1,6,107
+        ///4620,931 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_3_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_3_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4526,10186,100,1,6,208
+        ///9684,9302,100,1,12,179
+        ///4176,10266,100,1,28,172
+        ///6952,4724,100,1,12,147
+        ///11088,5636,100,1,8,142
+        ///7562,5694,100,1,8,135
+        ///5287.2725,10090.199,100,1,36,131
+        ///8588,5518,100,1,7,131
+        ///10882,5260,100,1,10,127
+        ///10318,4964,100,1,13,127
+        ///4480,9854,100,1,24,127
+        ///11670,6564,100,1,44,126
+        ///7233.7344,10635.608,100,1,12,124
+        ///11519.379,9545.578,100,1,7,123
+        ///11306,6842,100,1,18,121
+        ///4974.806,9996.535,100,1,26,118
+        ///10622,4740,100,1,34,118
+        ///12732.615,7514.075,100,1,16,118
+        ///5810,10156,100,1,1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_3_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_3_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,1,9,214
+        ///8023.157,5912.6973,100,1,6,191
+        ///4176,10266,100,1,28,172
+        ///11088,5636,100,1,8,142
+        ///5287.2725,10090.199,100,1,36,131
+        ///8588,5518,100,1,7,131
+        ///7175.3643,3207.5972,100,1,16,127
+        ///7229.578,10652.449,100,1,48,124
+        ///12630,9440,100,1,10,122
+        ///11306,6842,100,1,18,121
+        ///4974.806,9996.535,100,1,26,118
+        ///12732.615,7514.075,100,1,16,118
+        ///11746,7628,100,1,12,117
+        ///4498,10530,100,1,17,115
+        ///10222,4728,100,1,50,111
+        ///5520,11138,100,1,25,109
+        ///11075.379,6157.835,100,1,102,107
+        ///5838,10164,100,1,17, [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_6_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_6_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///11266,7782,100,1,9,214
+        ///10566.393,4344.133,100,1,15,135
+        ///4604,9784,100,1,19,126
+        ///11306,6842,100,1,18,121
+        ///11034,8212,100,1,12,118
+        ///12732.615,7514.075,100,1,16,118
+        ///10116,4626,100,1,6,116
+        ///13124,9268,100,1,6,113
+        ///4460,10466,100,1,28,113
+        ///11316,7194,100,1,57,112
+        ///11062.109,6151.115,100,1,102,107
+        ///11019.484,6558.5293,100,1,34,106
+        ///10896,11222,100,1,18,106
+        ///11718,10996,100,1,12,106
+        ///10099.797,12406.102,100,1,7,104
+        ///3777.6143,8558.069,100,1,6,104
+        ///9050,9208,100,1,8,102
+        ///5225.709,10004.9375,100,1,40 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_6_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_6_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5328,10822,100,1,9,244
+        ///9702,9400,100,1,10,194
+        ///4822,10176,100,1,32,162
+        ///5010,10894,100,1,8,155
+        ///8968,5454,100,1,6,147
+        ///6952,4724,100,1,12,147
+        ///6880,9538,100,1,7,139
+        ///11139.781,8141.418,100,1,33,136
+        ///5287.2725,10090.199,100,1,36,131
+        ///7472.2656,5225.993,100,1,12,131
+        ///7106,8962,100,1,16,131
+        ///11524.482,9559.122,100,1,7,123
+        ///7279.6484,10690.15,100,1,9,123
+        ///4518,10428,100,1,29,113
+        ///11316,7194,100,1,57,112
+        ///6757.115,5232.7246,100,1,6,109
+        ///10812.5,8250.354,100,1,30,109
+        ///5816.574,10160.076,100,1,17,10 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_6_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_6_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5328,10822,100,1,9,244
+        ///7662.5786,5597.622,100,1,8,197
+        ///9684,9302,100,1,12,179
+        ///4762,9936,100,1,30,166
+        ///4824,10234,100,1,28,163
+        ///7174.4766,10660.836,100,1,11,127
+        ///3664,9728,100,1,8,120
+        ///12732.615,7514.075,100,1,16,118
+        ///10494.395,4283.0645,100,1,20,114
+        ///10832,5412,100,1,8,113
+        ///4467.9824,10458.455,100,1,28,113
+        ///13124,9268,100,1,6,113
+        ///5464.707,11160.225,100,1,22,109
+        ///10334,5126,100,1,33,108
+        ///8476,5928,100,1,6,106
+        ///2758,7454,100,1,14,105
+        ///10099.797,12406.102,100,1,7,104
+        ///12458,7272,100,1,12,104
+        ///5 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_6_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_6_9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///4878.081,9949.17,100,1,6,252
+        ///5328,10822,100,1,9,244
+        ///4456,9916,100,1,24,164
+        ///10632.268,4348.8223,100,1,48,150
+        ///8588,5518,100,1,7,131
+        ///5287.2725,10090.199,100,1,36,131
+        ///9408,11622,100,1,10,125
+        ///7229.578,10652.449,100,1,48,124
+        ///6936,9556,100,1,8,123
+        ///12732.615,7514.075,100,1,16,118
+        ///3464,8190,100,1,6,115
+        ///4463.118,10406.272,100,1,174,113
+        ///4620,9310,100,1,12,106
+        ///11718,10996,100,1,12,106
+        ///3777.6143,8558.069,100,1,6,104
+        ///7136,9968,100,1,18,99
+        ///3100,9838,100,1,6,99
+        ///11932,6646,100,1,44,98
+        ///11324,44 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_9_12 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_9_12", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///5424.248,10775.918,100,1,6,215
+        ///10370,4564,100,1,8,193
+        ///8023.157,5912.6973,100,1,6,191
+        ///9674,9342,100,1,6,179
+        ///4228,10276,100,1,7,172
+        ///8968,5454,100,1,6,147
+        ///6952,4724,100,1,12,147
+        ///4520,10370,100,1,26,132
+        ///7472.2656,5225.993,100,1,12,131
+        ///11523.887,9557.67,100,1,14,123
+        ///10622,4740,100,1,34,118
+        ///12732.615,7514.075,100,1,16,118
+        ///4668,10012,100,1,32,112
+        ///3604,9780,100,1,14,109
+        ///5816.574,10160.076,100,1,17,107
+        ///8590,5602,100,1,12,106
+        ///10970.987,11208.397,100,1,18,106
+        ///10346,4930,100,1,25,105
+        ///2758 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_9_3 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_9_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///8023.157,5912.6973,100,1,6,191
+        ///10810,5336,100,1,10,183
+        ///4820,10186,100,1,16,162
+        ///8674.156,10957.758,100,1,10,157
+        ///6952,4724,100,1,12,147
+        ///11139.781,8141.418,100,1,33,136
+        ///5272.5884,10099.386,100,1,22,129
+        ///7174.4766,10660.836,100,1,11,127
+        ///4480,9854,100,1,24,127
+        ///9408,11622,100,1,10,125
+        ///11330,6780,100,1,6,121
+        ///12732.615,7514.075,100,1,16,118
+        ///11746,7628,100,1,12,117
+        ///11520,6496,100,1,10,116
+        ///2788,7426,100,1,7,110
+        ///4620,9310,100,1,12,106
+        ///10070,4774,100,1,39,105
+        ///8272,8122,100,1,15,105
+        ///12458,7 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_9_6 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_9_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to x,y,team,type,popularity,score
+        ///7670.6045,5603.3223,100,1,14,206
+        ///8024.324,5912.7485,100,1,6,191
+        ///4176,10266,100,1,28,172
+        ///10220,4856,100,1,26,134
+        ///8588,5518,100,1,7,131
+        ///9508,9202,100,1,16,126
+        ///9408,11622,100,1,10,125
+        ///6894,4656,100,1,15,124
+        ///7233.7344,10635.608,100,1,12,124
+        ///11575.547,9533.926,100,1,7,123
+        ///11330,6780,100,1,6,121
+        ///5536,11194,100,1,51,118
+        ///12732.615,7514.075,100,1,16,118
+        ///11552,6462,100,1,40,116
+        ///5019.552,9991.049,100,1,108,116
+        ///4498,10530,100,1,17,115
+        ///3464,8190,100,1,6,115
+        ///13124,9268,100,1,6,113
+        ///8680,8356 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string wards_Order_Regular_9_9 {
+            get {
+                return ResourceManager.GetString("wards_Order_Regular_9_9", resourceCulture);
             }
         }
     }

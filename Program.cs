@@ -10,10 +10,10 @@
     static class Program
     {
         private static Menu _mainMenu;
-        private static int CurrentlyLoadedMinute = -5;
+        private static int AllyTurrets = 12;
+        private static int EnemyTurrets = 12;
 
-        private static List<WardPosition> WardPositions =
-            WardPositionReader.Read(HeroManager.Player.Team, CurrentlyLoadedMinute);
+        private static List<WardPosition> WardPositions = null;
 
         private static List<WardPosition> FilteredWardPositions = new List<WardPosition>();
         private const int WardCastDistance = 600;
@@ -108,6 +108,28 @@
                 minPopularity = 0;
                 minScore = 0;
             }
+            
+            var allyTurrets = ObjectManager
+                .Get<Obj_AI_Turret>().Count(turret => turret.Team == HeroManager.Player.Team);
+            var enemyTurrets = ObjectManager
+                .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team);
+
+            if (allyTurrets != AllyTurrets || enemyTurrets != EnemyTurrets || WardPositions == null)
+            {
+                EnemyTurrets = enemyTurrets;
+                AllyTurrets = allyTurrets;
+                
+                var currentWards = WardPositionReader.Read(HeroManager.Player.Team, AllyTurrets, EnemyTurrets);
+                if (currentWards.Count != 0)
+                {
+                    WardPositions = currentWards;
+                    Console.WriteLine($"Loading {currentWards.Count} wards.");
+                }
+                else
+                {
+                    Console.WriteLine($"Not found wards for {AllyTurrets}:{EnemyTurrets}");
+                }
+            }
 
             FilteredWardPositions = WardPositions
                 .Where(wardPosition =>
@@ -117,21 +139,6 @@
 
             if (!CanCastWards()) return;
             if (OwnWards().Count >= 3) return;
-
-            if (Game.Time / 60 > CurrentlyLoadedMinute + 5)
-            {
-                CurrentlyLoadedMinute += 5;
-                var currentMinuteWards = WardPositionReader.Read(HeroManager.Player.Team, CurrentlyLoadedMinute);
-                if (currentMinuteWards.Count != 0)
-                {
-                    WardPositions = currentMinuteWards;
-                    Console.WriteLine($"Loading {currentMinuteWards.Count} wards.");
-                }
-                else
-                {
-                    Console.WriteLine($"Not found wards for minute {CurrentlyLoadedMinute}");
-                }
-            }
 
             foreach (var wardPosition in FilteredWardPositions
                 .Where(wardPosition =>
@@ -149,7 +156,7 @@
             var wts = Drawing.WorldToScreen(position.To3D2());
             Drawing.DrawText(wts[0] - msg.Length * 4, wts[1] + weight + 20, color, msg);
         }
-        
+
         public static bool IsOnScreen(Vector2 pos)
         {
             return pos.X > 0 && pos.X <= Drawing.Width && pos.Y > 0 && pos.Y <= Drawing.Height;
