@@ -84,7 +84,8 @@
         {
             return ObjectManager.Get<Obj_AI_Minion>()
                 .Where(minion => minion.Name == "JammerDevice" || minion.Name == "BlueTrinket" ||
-                                 minion.Name == "SightWard" || minion.Name == "YellowTrinket")
+                                 minion.Name == "SightWard" || minion.Name == "YellowTrinket" ||
+                                 minion.Name == "VisionWard")
                 .Where(minion => minion.Team == HeroManager.Player.Team)
                 .ToList();
         }
@@ -108,7 +109,7 @@
                 minPopularity = 0;
                 minScore = 0;
             }
-            
+
             var allyTurrets = ObjectManager
                 .Get<Obj_AI_Turret>().Count(turret => turret.Team == HeroManager.Player.Team) / 2 * 2;
             var enemyTurrets = ObjectManager
@@ -118,7 +119,7 @@
             {
                 EnemyTurrets = enemyTurrets;
                 AllyTurrets = allyTurrets;
-                
+
                 var currentWards = WardPositionReader.Read(HeroManager.Player.Team, AllyTurrets, EnemyTurrets);
                 if (currentWards.Count != 0)
                 {
