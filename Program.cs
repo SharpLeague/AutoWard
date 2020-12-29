@@ -43,7 +43,7 @@
             _mainMenu.AddItem(new MenuItem("autoward.score", "Min. score").SetValue(new Slider(50, 0, 600)));
             _mainMenu.AddItem(
                 new MenuItem("autoward.on_key", "Put ward in best spot").SetValue(new KeyBind('X', KeyBindType.Press)));
-            _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(20, 0, 100)));
+            _mainMenu.AddItem(new MenuItem("autoward.num_wards", "Wards to display").SetValue(new Slider(20, 0, 40)));
             _mainMenu.AddToMainMenu();
 
             Drawing.OnDraw += Drawing_OnDraw;
@@ -134,7 +134,8 @@
 
             FilteredWardPositions = WardPositions
                 .Where(wardPosition =>
-                    !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 2000))
+                    !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 1600))
+                .OrderByDescending(wardPosition => wardPosition.popularity)
                 .Take(numWards)
                 .ToList();
 
