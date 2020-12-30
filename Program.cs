@@ -60,17 +60,17 @@
 
         private static void CastWard(Vector2 position)
         {
-            if (ShardOfTrueIce.IsReady())
+            if (TrinketN.IsReady())
+            {
+                TrinketN.Cast(position);
+            }
+            else if (ShardOfTrueIce.IsReady())
             {
                 ShardOfTrueIce.Cast(position);
             }
             else if (FrostFang.IsReady())
             {
                 FrostFang.Cast(position);
-            }
-            else if (TrinketN.IsReady())
-            {
-                TrinketN.Cast(position);
             }
             else if (ControlWard.IsReady())
             {
