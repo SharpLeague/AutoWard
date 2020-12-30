@@ -27,6 +27,9 @@
         private static readonly Items.Item
             FrostFang = new Items.Item(3851, 600f);
 
+        private static readonly Items.Item
+            ShardOfTrueIce = new Items.Item(3853, 600f);
+
         private static float _lastWardPlaced = Game.Time;
 
         static void Main(string[] args)
@@ -52,12 +55,16 @@
 
         private static bool CanCastWards()
         {
-            return FrostFang.IsReady() || TrinketN.IsReady() || ControlWard.IsReady();
+            return ShardOfTrueIce.IsReady() || FrostFang.IsReady() || TrinketN.IsReady() || ControlWard.IsReady();
         }
 
         private static void CastWard(Vector2 position)
         {
-            if (FrostFang.IsReady())
+            if (ShardOfTrueIce.IsReady())
+            {
+                ShardOfTrueIce.Cast(position);
+            }
+            else if (FrostFang.IsReady())
             {
                 FrostFang.Cast(position);
             }
