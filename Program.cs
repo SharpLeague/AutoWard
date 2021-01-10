@@ -10,8 +10,7 @@
     static class Program
     {
         private static Menu _mainMenu;
-        private static int AllyTurrets = 12;
-        private static int EnemyTurrets = 12;
+        private static int CurrentMinute = -3;
 
         private static List<WardPosition> WardPositions = null;
 
@@ -122,12 +121,13 @@
             var enemyTurrets = ObjectManager
                 .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team) / 2 * 2;
 
-            if (allyTurrets != AllyTurrets || enemyTurrets != EnemyTurrets || WardPositions == null)
+            var gameMinute = (int) (Game.Time / 60) / 3 * 3;
+            
+            if (gameMinute != CurrentMinute || WardPositions == null)
             {
-                EnemyTurrets = enemyTurrets;
-                AllyTurrets = allyTurrets;
+                CurrentMinute = gameMinute;
 
-                var currentWards = WardPositionReader.Read(HeroManager.Player.Team, AllyTurrets, EnemyTurrets);
+                var currentWards = WardPositionReader.Read(HeroManager.Player.Team, CurrentMinute);
                 if (currentWards.Count != 0)
                 {
                     WardPositions = currentWards;
@@ -135,13 +135,13 @@
                 }
                 else
                 {
-                    Console.WriteLine($"Not found wards for {AllyTurrets}:{EnemyTurrets}");
+                    Console.WriteLine($"Not found wards for {CurrentMinute}m");
                 }
             }
 
             FilteredWardPositions = WardPositions
                 .Where(wardPosition =>
-                    !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 1600))
+                    !otherWards.Any(otherWard => otherWard.Position.Distance(wardPosition.position.To3D()) < 1500))
                 .OrderByDescending(wardPosition => wardPosition.popularity)
                 .Take(numWards)
                 .ToList();

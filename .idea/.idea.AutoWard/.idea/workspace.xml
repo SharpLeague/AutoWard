@@ -8,7 +8,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c18d636a-9ea0-4a20-8dd7-91ed8d006a38" name="Default Changelist" comment="" />
+    <list default="true" id="c18d636a-9ea0-4a20-8dd7-91ed8d006a38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AutoWard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +83,8 @@
       <workItem from="1609147076133" duration="9714000" />
       <workItem from="1609190699607" duration="1807000" />
       <workItem from="1609195257214" duration="6702000" />
-      <workItem from="1609288686260" duration="733000" />
+      <workItem from="1609288686260" duration="1348000" />
+      <workItem from="1609325566751" duration="630000" />
     </task>
     <servers />
   </component>
