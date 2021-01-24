@@ -29,6 +29,11 @@
         private static readonly Items.Item
             ShardOfTrueIce = new Items.Item(3853, 600f);
 
+        private static readonly Items.Item
+            TargonBucker = new Items.Item(3859, 600f);
+
+        private static readonly Items.Item BulwarkOfTheMountain = new Items.Item(3860, 600f);
+
         private static float _lastWardPlaced = Game.Time;
 
         static void Main(string[] args)
@@ -54,7 +59,8 @@
 
         private static bool CanCastWards()
         {
-            return ShardOfTrueIce.IsReady() || FrostFang.IsReady() || TrinketN.IsReady() || ControlWard.IsReady();
+            return ShardOfTrueIce.IsReady() || FrostFang.IsReady() || TrinketN.IsReady() || ControlWard.IsReady() ||
+                   TargonBucker.IsReady() || BulwarkOfTheMountain.IsReady();
         }
 
         private static void CastWard(Vector2 position)
@@ -70,6 +76,14 @@
             else if (FrostFang.IsReady())
             {
                 FrostFang.Cast(position);
+            }
+            else if (TargonBucker.IsReady())
+            {
+                TargonBucker.Cast(position);
+            }
+            else if (BulwarkOfTheMountain.IsReady())
+            {
+                BulwarkOfTheMountain.Cast(position);
             }
             else if (ControlWard.IsReady())
             {
@@ -122,7 +136,7 @@
                 .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team) / 2 * 2;
 
             var gameMinute = (int) (Game.Time / 60) / 3 * 3;
-            
+
             if (gameMinute != CurrentMinute || WardPositions == null)
             {
                 CurrentMinute = gameMinute;
