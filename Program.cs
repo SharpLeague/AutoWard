@@ -129,12 +129,7 @@
                 minPopularity = 0;
                 minScore = 0;
             }
-
-            var allyTurrets = ObjectManager
-                .Get<Obj_AI_Turret>().Count(turret => turret.Team == HeroManager.Player.Team) / 2 * 2;
-            var enemyTurrets = ObjectManager
-                .Get<Obj_AI_Turret>().Count(turret => turret.Team != HeroManager.Player.Team) / 2 * 2;
-
+            
             var gameMinute = (int) (Game.Time / 60) / 3 * 3;
 
             if (gameMinute != CurrentMinute || WardPositions == null)
